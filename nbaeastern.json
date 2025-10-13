@@ -1,0 +1,64 @@
+{
+  "eastern_conference_teams": [
+    {
+      "east_team_name": "Atlanta Hawks",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/2/24/Atlanta_Hawks_logo.svg"
+    },
+    {
+      "east_team_name": "Boston Celtics",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg"
+    },
+    {
+      "east_team_name": "Brooklyn Nets",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brooklyn_Nets_newlogo.svg"
+    },
+    {
+      "east_team_name": "Charlotte Hornets",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg"
+    },
+    {
+      "east_team_name": "Chicago Bulls",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg"
+    },
+    {
+      "east_team_name": "Cleveland Cavaliers",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg"
+    },
+    {
+      "east_team_name": "Detroit Pistons",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg"
+    },
+    {
+      "east_team_name": "Indiana Pacers",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg"
+    },
+    {
+      "east_team_name": "Miami Heat",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg"
+    },
+    {
+      "east_team_name": "Milwaukee Bucks",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg"
+    },
+    {
+      "east_team_name": "New York Knicks",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg"
+    },
+    {
+      "east_team_name": "Orlando Magic",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg"
+    },
+    {
+      "east_team_name": "Philadelphia 76ers",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg"
+    },
+    {
+      "east_team_name": "Toronto Raptors",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg"
+    },
+    {
+      "east_team_name": "Washington Wizards",
+      "east_logo_url": "https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg"
+    }
+  ]
+}
