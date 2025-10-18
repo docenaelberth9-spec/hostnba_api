@@ -2,7 +2,7 @@
   {
     "id": 1,
     "PName": "Jayson Tatum",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png",
     "team": "Boston Celtics",
     "age": 27,
     "position": "Small Forward",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "PName": "Joel Embiid",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png",
     "team": "Philadelphia 76ers",
     "age": 31,
     "position": "Center",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "PName": "Luka Doncic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png",
     "team": "Dallas Mavericks",
     "age": 26,
     "position": "Point Guard",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "PName": "Shai Gilgeous-Alexander",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png",
     "team": "Oklahoma City Thunder",
     "age": 27,
     "position": "Point Guard",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "PName": "Giannis Antetokounmpo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png",
     "team": "Milwaukee Bucks",
     "age": 30,
     "position": "Power Forward",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "PName": "Anthony Edwards",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630162.png",
     "team": "Minnesota Timberwolves",
     "age": 24,
     "position": "Shooting Guard",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "PName": "Julius Randle",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png",
     "team": "New York Knicks",
     "age": 30,
     "position": "Power Forward",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "PName": "Donovan Mitchell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png",
     "team": "Cleveland Cavaliers",
     "age": 29,
     "position": "Shooting Guard",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "PName": "Trae Young",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
     "team": "Atlanta Hawks",
     "age": 27,
     "position": "Point Guard",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "PName": "Zach LaVine",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png",
     "team": "Chicago Bulls",
     "age": 30,
     "position": "Shooting Guard",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "PName": "Damian Lillard",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png",
     "team": "Milwaukee Bucks",
     "age": 35,
     "position": "Point Guard",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "PName": "De'Aaron Fox",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
     "team": "Sacramento Kings",
     "age": 27,
     "position": "Point Guard",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "PName": "DeMar DeRozan",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
     "team": "Chicago Bulls",
     "age": 36,
     "position": "Small Forward",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "PName": "Jaylen Brown",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png",
     "team": "Boston Celtics",
     "age": 29,
     "position": "Shooting Guard",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "PName": "Pascal Siakam",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png",
     "team": "Indiana Pacers",
     "age": 31,
     "position": "Power Forward",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "PName": "Lauri Markkanen",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png",
     "team": "Utah Jazz",
     "age": 28,
     "position": "Power Forward",
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "PName": "Nikola Jokić",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png",
     "team": "Denver Nuggets",
     "age": 30,
     "position": "Center",
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "PName": "Jalen Green",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png",
     "team": "Houston Rockets",
     "age": 23,
     "position": "Shooting Guard",
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "PName": "Jordan Poole",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png",
     "team": "Washington Wizards",
     "age": 26,
     "position": "Shooting Guard",
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "PName": "Mikal Bridges",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png",
     "team": "New York Knicks",
     "age": 29,
     "position": "Small Forward",
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "PName": "Stephen Curry",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png",
     "team": "Golden State Warriors",
     "age": 37,
     "position": "Point Guard",
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "PName": "Jalen Brunson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png",
     "team": "New York Knicks",
     "age": 29,
     "position": "Point Guard",
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "PName": "Kyrie Irving",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
     "team": "Dallas Mavericks",
     "age": 33,
     "position": "Point Guard",
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "PName": "Ja Morant",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png",
     "team": "Memphis Grizzlies",
     "age": 26,
     "position": "Point Guard",
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "PName": "LeBron James",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
     "team": "Los Angeles Lakers",
     "age": 40,
     "position": "Small Forward",
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "PName": "CJ McCollum",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png",
     "team": "New Orleans Pelicans",
     "age": 34,
     "position": "Shooting Guard",
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "PName": "Bam Adebayo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png",
     "team": "Miami Heat",
     "age": 28,
     "position": "Center",
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "PName": "Dejounte Murray",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627749.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png",
     "team": "New Orleans Pelicans",
     "age": 29,
     "position": "Shooting Guard",
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "PName": "Domantas Sabonis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png",
     "team": "Sacramento Kings",
     "age": 29,
     "position": "Center",
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "PName": "Klay Thompson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
     "team": "Dallas Mavericks",
     "age": 35,
     "position": "Shooting Guard",
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "PName": "Kristaps Porzingis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/204001.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png",
     "team": "Boston Celtics",
     "age": 30,
     "position": "Center",
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "PName": "Darius Garland",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629636.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png",
     "team": "Cleveland Cavaliers",
     "age": 25,
     "position": "Point Guard",
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "PName": "Franz Wagner",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630532.png",
     "team": "Orlando Magic",
     "age": 24,
     "position": "Small Forward",
@@ -299,7 +299,7 @@
   {
     "id": 34,
     "PName": "Devin Booker",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png",
     "team": "Phoenix Suns",
     "age": 29,
     "position": "Shooting Guard",
@@ -308,7 +308,7 @@
   {
     "id": 35,
     "PName": "Jimmy Butler",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png",
     "team": "Miami Heat",
     "age": 36,
     "position": "Small Forward",
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "PName": "Anthony Davis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png",
     "team": "Los Angeles Lakers",
     "age": 32,
     "position": "Power Forward",
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "PName": "Nikola Vucevic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png",
     "team": "Chicago Bulls",
     "age": 35,
     "position": "Center",
@@ -335,7 +335,7 @@
   {
     "id": 38,
     "PName": "Paolo Banchero",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631094.png",
     "team": "Orlando Magic",
     "age": 22,
     "position": "Power Forward",
@@ -344,7 +344,7 @@
   {
     "id": 39,
     "PName": "RJ Barrett",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png",
     "team": "Toronto Raptors",
     "age": 25,
     "position": "Shooting Guard",
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "PName": "Keldon Johnson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629640.png",
     "team": "San Antonio Spurs",
     "age": 26,
     "position": "Small Forward",
@@ -362,7 +362,7 @@
   {
     "id": 41,
     "PName": "Spencer Dinwiddie",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png",
     "team": "Dallas Mavericks",
     "age": 32,
     "position": "Point Guard",
@@ -371,7 +371,7 @@
   {
     "id": 42,
     "PName": "Kevin Durant",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
     "team": "Phoenix Suns",
     "age": 37,
     "position": "Small Forward",
@@ -380,7 +380,7 @@
   {
     "id": 43,
     "PName": "Kyle Kuzma",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png",
     "team": "Washington Wizards",
     "age": 30,
     "position": "Power Forward",
@@ -389,7 +389,7 @@
   {
     "id": 44,
     "PName": "Tyler Herro",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629639.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png",
     "team": "Miami Heat",
     "age": 25,
     "position": "Shooting Guard",
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "PName": "Buddy Hield",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627741.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png",
     "team": "Golden State Warriors",
     "age": 32,
     "position": "Shooting Guard",
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "PName": "Fred VanVleet",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
     "team": "Houston Rockets",
     "age": 31,
     "position": "Point Guard",
@@ -416,7 +416,7 @@
   {
     "id": 47,
     "PName": "Paul George",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png",
     "team": "Philadelphia 76ers",
     "age": 35,
     "position": "Small Forward",
@@ -425,7 +425,7 @@
   {
     "id": 48,
     "PName": "Terry Rozier",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626179.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png",
     "team": "Miami Heat",
     "age": 31,
     "position": "Shooting Guard",
@@ -434,7 +434,7 @@
   {
     "id": 49,
     "PName": "Anfernee Simons",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png",
     "team": "Portland Trail Blazers",
     "age": 26,
     "position": "Shooting Guard",
@@ -443,7 +443,7 @@
   {
     "id": 50,
     "PName": "Bennedict Mathurin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631097.png",
     "team": "Indiana Pacers",
     "age": 23,
     "position": "Shooting Guard",
@@ -452,7 +452,7 @@
   {
     "id": 51,
     "PName": "Jamal Murray",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png",
     "team": "Denver Nuggets",
     "age": 28,
     "position": "Point Guard",
@@ -461,7 +461,7 @@
   {
     "id": 52,
     "PName": "Jerami Grant",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png",
     "team": "Portland Trail Blazers",
     "age": 31,
     "position": "Power Forward",
@@ -470,7 +470,7 @@
   {
     "id": 53,
     "PName": "Jrue Holiday",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png",
     "team": "Boston Celtics",
     "age": 35,
     "position": "Point Guard",
@@ -479,7 +479,7 @@
   {
     "id": 54,
     "PName": "Evan Mobley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630596.png",
     "team": "Cleveland Cavaliers",
     "age": 24,
     "position": "Power Forward",
@@ -488,7 +488,7 @@
   {
     "id": 55,
     "PName": "Bojan Bogdanovic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202711.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202711.png",
     "team": "Brooklyn Nets",
     "age": 36,
     "position": "Small Forward",
@@ -497,7 +497,7 @@
   {
     "id": 56,
     "PName": "Jordan Clarkson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203903.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png",
     "team": "Utah Jazz",
     "age": 33,
     "position": "Shooting Guard",
@@ -506,7 +506,7 @@
   {
     "id": 57,
     "PName": "D'Angelo Russell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626156.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png",
     "team": "Los Angeles Lakers",
     "age": 29,
     "position": "Point Guard",
@@ -515,7 +515,7 @@
   {
     "id": 58,
     "PName": "Josh Giddey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630581.png",
     "team": "Chicago Bulls",
     "age": 23,
     "position": "Shooting Guard",
@@ -524,7 +524,7 @@
   {
     "id": 59,
     "PName": "Desmond Bane",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630217.png",
     "team": "Memphis Grizzlies",
     "age": 27,
     "position": "Shooting Guard",
@@ -533,7 +533,7 @@
   {
     "id": 60,
     "PName": "Brook Lopez",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png",
     "team": "Milwaukee Bucks",
     "age": 37,
     "position": "Center",
@@ -542,7 +542,7 @@
   {
     "id": 61,
     "PName": "Kawhi Leonard",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
     "team": "Los Angeles Clippers",
     "age": 34,
     "position": "Small Forward",
@@ -551,7 +551,7 @@
   {
     "id": 62,
     "PName": "Harrison Barnes",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png",
     "team": "San Antonio Spurs",
     "age": 33,
     "position": "Small Forward",
@@ -560,7 +560,7 @@
   {
     "id": 63,
     "PName": "Tyrese Maxey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630178.png",
     "team": "Philadelphia 76ers",
     "age": 24,
     "position": "Point Guard",
@@ -569,7 +569,7 @@
   {
     "id": 64,
     "PName": "James Harden",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png",
     "team": "Los Angeles Clippers",
     "age": 36,
     "position": "Point Guard",
@@ -578,7 +578,7 @@
   {
     "id": 65,
     "PName": "Immanuel Quickley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630193.png",
     "team": "Toronto Raptors",
     "age": 26,
     "position": "Point Guard",
@@ -587,7 +587,7 @@
   {
     "id": 66,
     "PName": "Jaden Ivey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631093.png",
     "team": "Detroit Pistons",
     "age": 23,
     "position": "Shooting Guard",
@@ -596,7 +596,7 @@
   {
     "id": 67,
     "PName": "Deandre Ayton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png",
     "team": "Portland Trail Blazers",
     "age": 27,
     "position": "Center",
@@ -605,7 +605,7 @@
   {
     "id": 68,
     "PName": "Scottie Barnes",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630567.png",
     "team": "Toronto Raptors",
     "age": 24,
     "position": "Small Forward",
@@ -614,7 +614,7 @@
   {
     "id": 69,
     "PName": "Jaren Jackson Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png",
     "team": "Memphis Grizzlies",
     "age": 26,
     "position": "Power Forward",
@@ -623,7 +623,7 @@
   {
     "id": 70,
     "PName": "Bradley Beal",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png",
     "team": "Phoenix Suns",
     "age": 32,
     "position": "Shooting Guard",
@@ -632,7 +632,7 @@
   {
     "id": 71,
     "PName": "Tyrese Haliburton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630169.png",
     "team": "Indiana Pacers",
     "age": 25,
     "position": "Point Guard",
@@ -641,7 +641,7 @@
   {
     "id": 72,
     "PName": "Russell Westbrook",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png",
     "team": "Denver Nuggets",
     "age": 36,
     "position": "Point Guard",
@@ -650,7 +650,7 @@
   {
     "id": 73,
     "PName": "Gary Trent Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629018.png",
     "team": "Milwaukee Bucks",
     "age": 26,
     "position": "Shooting Guard",
@@ -659,7 +659,7 @@
   {
     "id": 74,
     "PName": "Trey Murphy III",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630530.png",
     "team": "New Orleans Pelicans",
     "age": 25,
     "position": "Small Forward",
@@ -668,7 +668,7 @@
   {
     "id": 75,
     "PName": "P.J. Washington",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png",
     "team": "Dallas Mavericks",
     "age": 27,
     "position": "Power Forward",
@@ -677,7 +677,7 @@
   {
     "id": 76,
     "PName": "Kevin Huerter",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628989.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
     "team": "Sacramento Kings",
     "age": 27,
     "position": "Shooting Guard",
@@ -686,7 +686,7 @@
   {
     "id": 77,
     "PName": "Kevin Porter Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629645.png",
     "team": "Los Angeles Clippers",
     "age": 25,
     "position": "Point Guard",
@@ -695,7 +695,7 @@
   {
     "id": 78,
     "PName": "O.G. Anunoby",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
     "team": "New York Knicks",
     "age": 28,
     "position": "Small Forward",
@@ -704,7 +704,7 @@
   {
     "id": 79,
     "PName": "Jonas Valanciunas",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202685.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png",
     "team": "Washington Wizards",
     "age": 33,
     "position": "Center",
@@ -713,7 +713,7 @@
   {
     "id": 80,
     "PName": "Christian Wood",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626174.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626174.png",
     "team": "Los Angeles Lakers",
     "age": 30,
     "position": "Center",
@@ -722,7 +722,7 @@
   {
     "id": 81,
     "PName": "Myles Turner",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626167.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png",
     "team": "Indiana Pacers",
     "age": 29,
     "position": "Center",
@@ -731,7 +731,7 @@
   {
     "id": 82,
     "PName": "Brandon Ingram",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627742.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png",
     "team": "New Orleans Pelicans",
     "age": 28,
     "position": "Small Forward",
@@ -740,7 +740,7 @@
   {
     "id": 83,
     "PName": "Aaron Gordon",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png",
     "team": "Denver Nuggets",
     "age": 30,
     "position": "Power Forward",
@@ -749,7 +749,7 @@
   {
     "id": 84,
     "PName": "Alperen Sengun",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630578.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630578.png",
     "team": "Houston Rockets",
     "age": 23,
     "position": "Center",
@@ -758,7 +758,7 @@
   {
     "id": 85,
     "PName": "Tobias Harris",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202699.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png",
     "team": "Detroit Pistons",
     "age": 33,
     "position": "Power Forward",
@@ -767,7 +767,7 @@
   {
     "id": 86,
     "PName": "Michael Porter Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
     "team": "Denver Nuggets",
     "age": 27,
     "position": "Small Forward",
@@ -776,7 +776,7 @@
   {
     "id": 87,
     "PName": "Saddiq Bey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630180.png",
     "team": "Washington Wizards",
     "age": 26,
     "position": "Small Forward",
@@ -785,7 +785,7 @@
   {
     "id": 88,
     "PName": "Jalen Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631114.png",
     "team": "Oklahoma City Thunder",
     "age": 24,
     "position": "Shooting Guard",
@@ -794,7 +794,7 @@
   {
     "id": 89,
     "PName": "Dillon Brooks",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628415.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png",
     "team": "Houston Rockets",
     "age": 29,
     "position": "Small Forward",
@@ -803,7 +803,7 @@
   {
     "id": 90,
     "PName": "Malik Monk",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628370.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png",
     "team": "Sacramento Kings",
     "age": 27,
     "position": "Shooting Guard",
@@ -812,7 +812,7 @@
   {
     "id": 91,
     "PName": "Kenyon Martin Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630231.png",
     "team": "New York Knicks",
     "age": 24,
     "position": "Small Forward",
@@ -821,7 +821,7 @@
   {
     "id": 92,
     "PName": "De'Andre Hunter",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
     "team": "Atlanta Hawks",
     "age": 27,
     "position": "Small Forward",
@@ -830,7 +830,7 @@
   {
     "id": 93,
     "PName": "Malik Beasley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627736.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png",
     "team": "Detroit Pistons",
     "age": 28,
     "position": "Shooting Guard",
@@ -839,7 +839,7 @@
   {
     "id": 94,
     "PName": "Norman Powell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626181.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
     "team": "Los Angeles Clippers",
     "age": 32,
     "position": "Shooting Guard",
@@ -848,7 +848,7 @@
   {
     "id": 95,
     "PName": "Tim Hardaway Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203501.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png",
     "team": "Detroit Pistons",
     "age": 33,
     "position": "Shooting Guard",
@@ -857,7 +857,7 @@
   {
     "id": 96,
     "PName": "Derrick White",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png",
     "team": "Boston Celtics",
     "age": 31,
     "position": "Point Guard",
@@ -866,7 +866,7 @@
   {
     "id": 97,
     "PName": "Luguentz Dort",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629652.png",
     "team": "Oklahoma City Thunder",
     "age": 26,
     "position": "Shooting Guard",
@@ -875,7 +875,7 @@
   {
     "id": 98,
     "PName": "Jabari Smith Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631095.png",
     "team": "Houston Rockets",
     "age": 22,
     "position": "Power Forward",
@@ -884,7 +884,7 @@
   {
     "id": 99,
     "PName": "Malcolm Brogdon",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627763.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png",
     "team": "New York Knicks",
     "age": 32,
     "position": "Point Guard",
@@ -893,7 +893,7 @@
   {
     "id": 100,
     "PName": "Bobby Portis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626171.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png",
     "team": "Milwaukee Bucks",
     "age": 30,
     "position": "Power Forward",
@@ -902,7 +902,7 @@
   {
     "id": 101,
     "PName": "Keegan Murray",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631099.png",
     "team": "Sacramento Kings",
     "age": 25,
     "position": "Power Forward",
@@ -911,7 +911,7 @@
   {
     "id": 102,
     "PName": "Kelly Oubre Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626162.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png",
     "team": "Philadelphia 76ers",
     "age": 29,
     "position": "Small Forward",
@@ -920,7 +920,7 @@
   {
     "id": 103,
     "PName": "Jarrett Allen",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png",
     "team": "Cleveland Cavaliers",
     "age": 27,
     "position": "Center",
@@ -929,7 +929,7 @@
   {
     "id": 104,
     "PName": "Nic Claxton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629651.png",
     "team": "Brooklyn Nets",
     "age": 26,
     "position": "Center",
@@ -938,7 +938,7 @@
   {
     "id": 105,
     "PName": "Jaden McDaniels",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630183.png",
     "team": "Minnesota Timberwolves",
     "age": 25,
     "position": "Small Forward",
@@ -947,7 +947,7 @@
   {
     "id": 106,
     "PName": "Rudy Gobert",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png",
     "team": "Minnesota Timberwolves",
     "age": 33,
     "position": "Center",
@@ -956,7 +956,7 @@
   {
     "id": 107,
     "PName": "John Collins",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
     "team": "Los Angeles Clippers",
     "age": 28,
     "position": "Power Forward",
@@ -965,7 +965,7 @@
   {
     "id": 108,
     "PName": "Bruce Brown",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png",
     "team": "Toronto Raptors",
     "age": 29,
     "position": "Shooting Guard",
@@ -974,7 +974,7 @@
   {
     "id": 109,
     "PName": "Max Strus",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629622.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629622.png",
     "team": "Cleveland Cavaliers",
     "age": 29,
     "position": "Shooting Guard",
@@ -983,7 +983,7 @@
   {
     "id": 110,
     "PName": "Caris LeVert",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627747.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png",
     "team": "Cleveland Cavaliers",
     "age": 31,
     "position": "Shooting Guard",
@@ -992,7 +992,7 @@
   {
     "id": 111,
     "PName": "Jakob Poeltl",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627751.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png",
     "team": "Toronto Raptors",
     "age": 30,
     "position": "Center",
@@ -1001,7 +1001,7 @@
   {
     "id": 112,
     "PName": "Tre Jones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630200.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630200.png",
     "team": "San Antonio Spurs",
     "age": 25,
     "position": "Point Guard",
@@ -1010,7 +1010,7 @@
   {
     "id": 113,
     "PName": "Wendell Carter Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
     "team": "Orlando Magic",
     "age": 26,
     "position": "Center",
@@ -1019,7 +1019,7 @@
   {
     "id": 114,
     "PName": "Mason Plumlee",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203486.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png",
     "team": "Phoenix Suns",
     "age": 35,
     "position": "Center",
@@ -1028,7 +1028,7 @@
   {
     "id": 115,
     "PName": "Eric Gordon",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201569.png",
     "team": "Philadelphia 76ers",
     "age": 36,
     "position": "Shooting Guard",
@@ -1037,7 +1037,7 @@
   {
     "id": 116,
     "PName": "Kelly Olynyk",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203482.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png",
     "team": "Toronto Raptors",
     "age": 34,
     "position": "Center",
@@ -1046,7 +1046,7 @@
   {
     "id": 117,
     "PName": "LaMelo Ball",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630163.png",
     "team": "Charlotte Hornets",
     "age": 24,
     "position": "Point Guard",
@@ -1055,7 +1055,7 @@
   {
     "id": 118,
     "PName": "Markelle Fultz",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
     "team": "Orlando Magic",
     "age": 27,
     "position": "Point Guard",
@@ -1064,7 +1064,7 @@
   {
     "id": 119,
     "PName": "Austin Reaves",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630559.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630559.png",
     "team": "Los Angeles Lakers",
     "age": 27,
     "position": "Shooting Guard",
@@ -1073,7 +1073,7 @@
   {
     "id": 120,
     "PName": "Patrick Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630172.png",
     "team": "Chicago Bulls",
     "age": 24,
     "position": "Power Forward",
@@ -1082,7 +1082,7 @@
   {
     "id": 121,
     "PName": "Dennis Schroder",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203471.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png",
     "team": "Golden State Warriors",
     "age": 32,
     "position": "Point Guard",
@@ -1091,7 +1091,7 @@
   {
     "id": 122,
     "PName": "Kentavious Caldwell-Pope",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png",
     "team": "Orlando Magic",
     "age": 32,
     "position": "Shooting Guard",
@@ -1100,7 +1100,7 @@
   {
     "id": 123,
     "PName": "Tyus Jones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626145.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png",
     "team": "Phoenix Suns",
     "age": 29,
     "position": "Point Guard",
@@ -1109,7 +1109,7 @@
   {
     "id": 124,
     "PName": "Corey Kispert",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630557.png",
     "team": "Washington Wizards",
     "age": 26,
     "position": "Small Forward",
@@ -1118,7 +1118,7 @@
   {
     "id": 125,
     "PName": "Chris Paul",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png",
     "team": "San Antonio Spurs",
     "age": 40,
     "position": "Point Guard",
@@ -1127,7 +1127,7 @@
   {
     "id": 126,
     "PName": "Ivica Zubac",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png",
     "team": "Los Angeles Clippers",
     "age": 28,
     "position": "Center",
@@ -1136,7 +1136,7 @@
   {
     "id": 127,
     "PName": "Quentin Grimes",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629656.png",
     "team": "Dallas Mavericks",
     "age": 25,
     "position": "Shooting Guard",
@@ -1145,7 +1145,7 @@
   {
     "id": 128,
     "PName": "Mike Conley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png",
     "team": "Minnesota Timberwolves",
     "age": 38,
     "position": "Point Guard",
@@ -1154,7 +1154,7 @@
   {
     "id": 129,
     "PName": "Onyeka Okongwu",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630168.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630168.png",
     "team": "Atlanta Hawks",
     "age": 24,
     "position": "Center",
@@ -1163,7 +1163,7 @@
   {
     "id": 130,
     "PName": "Shaedon Sharpe",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631101.png",
     "team": "Portland Trail Blazers",
     "age": 22,
     "position": "Shooting Guard",
@@ -1172,7 +1172,7 @@
   {
     "id": 131,
     "PName": "Killian Hayes",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630165.png",
     "team": "Brooklyn Nets",
     "age": 24,
     "position": "Point Guard",
@@ -1181,7 +1181,7 @@
   {
     "id": 132,
     "PName": "Cole Anthony",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630175.png",
     "team": "Milwaukee Bucks",
     "age": 25,
     "position": "Point Guard",
@@ -1190,7 +1190,7 @@
   {
     "id": 133,
     "PName": "Naz Reid",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629675.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629675.png",
     "team": "Minnesota Timberwolves",
     "age": 26,
     "position": "Center",
@@ -1199,7 +1199,7 @@
   {
     "id": 134,
     "PName": "De'Anthony Melton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629001.png",
     "team": "Golden State Warriors",
     "age": 27,
     "position": "Shooting Guard",
@@ -1208,7 +1208,7 @@
   {
     "id": 135,
     "PName": "Clint Capela",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203991.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
     "team": "Houston Rockets",
     "age": 31,
     "position": "Center",
@@ -1217,7 +1217,7 @@
   {
     "id": 136,
     "PName": "Tari Eason",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631106.png",
     "team": "Houston Rockets",
     "age": 24,
     "position": "Power Forward",
@@ -1226,7 +1226,7 @@
   {
     "id": 137,
     "PName": "Bogdan Bogdanovic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203992.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png",
     "team": "Atlanta Hawks",
     "age": 33,
     "position": "Shooting Guard",
@@ -1235,7 +1235,7 @@
   {
     "id": 138,
     "PName": "Jalen McDaniels",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629667.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629667.png",
     "team": "Sacramento Kings",
     "age": 27,
     "position": "Power Forward",
@@ -1244,7 +1244,7 @@
   {
     "id": 139,
     "PName": "Zion Williamson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
     "team": "New Orleans Pelicans",
     "age": 25,
     "position": "Power Forward",
@@ -1253,7 +1253,7 @@
   {
     "id": 140,
     "PName": "Grayson Allen",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png",
     "team": "Phoenix Suns",
     "age": 30,
     "position": "Shooting Guard",
@@ -1262,7 +1262,7 @@
   {
     "id": 141,
     "PName": "Josh Hart",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png",
     "team": "New York Knicks",
     "age": 30,
     "position": "Small Forward",
@@ -1271,7 +1271,7 @@
   {
     "id": 142,
     "PName": "Aaron Nesmith",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630174.png",
     "team": "Indiana Pacers",
     "age": 26,
     "position": "Small Forward",
@@ -1280,7 +1280,7 @@
   {
     "id": 143,
     "PName": "Gordon Hayward",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202330.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png",
     "team": "Oklahoma City Thunder",
     "age": 35,
     "position": "Small Forward",
@@ -1289,7 +1289,7 @@
   {
     "id": 144,
     "PName": "Zach Collins",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png",
     "team": "San Antonio Spurs",
     "age": 27,
     "position": "Center",
@@ -1298,7 +1298,7 @@
   {
     "id": 145,
     "PName": "Marcus Morris Sr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202694.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202694.png",
     "team": "New York Knicks",
     "age": 36,
     "position": "Power Forward",
@@ -1307,7 +1307,7 @@
   {
     "id": 146,
     "PName": "Coby White",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629632.png",
     "team": "Chicago Bulls",
     "age": 25,
     "position": "Point Guard",
@@ -1316,7 +1316,7 @@
   {
     "id": 147,
     "PName": "Terance Mann",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629611.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629611.png",
     "team": "Los Angeles Clippers",
     "age": 29,
     "position": "Shooting Guard",
@@ -1325,7 +1325,7 @@
   {
     "id": 148,
     "PName": "Chris Boucher",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628449.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628449.png",
     "team": "Boston Celtics",
     "age": 32,
     "position": "Power Forward",
@@ -1334,7 +1334,7 @@
   {
     "id": 149,
     "PName": "Andrew Nembhard",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629614.png",
     "team": "Indiana Pacers",
     "age": 25,
     "position": "Point Guard",
@@ -1343,7 +1343,7 @@
   {
     "id": 150,
     "PName": "Rui Hachimura",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629060.png",
     "team": "Los Angeles Lakers",
     "age": 27,
     "position": "Power Forward",
@@ -1352,7 +1352,7 @@
   {
     "id": 151,
     "PName": "Daniel Gafford",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629655.png",
     "team": "Dallas Mavericks",
     "age": 27,
     "position": "Center",
@@ -1361,7 +1361,7 @@
   {
     "id": 152,
     "PName": "Jaylen Nowell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629669.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629669.png",
     "team": "New Orleans Pelicans",
     "age": 26,
     "position": "Shooting Guard",
@@ -1370,7 +1370,7 @@
   {
     "id": 153,
     "PName": "Devin Vassell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630170.png",
     "team": "San Antonio Spurs",
     "age": 25,
     "position": "Shooting Guard",
@@ -1379,7 +1379,7 @@
   {
     "id": 154,
     "PName": "Marcus Smart",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png",
     "team": "Memphis Grizzlies",
     "age": 31,
     "position": "Point Guard",
@@ -1388,7 +1388,7 @@
   {
     "id": 155,
     "PName": "Naji Marshall",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630230.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630230.png",
     "team": "Dallas Mavericks",
     "age": 27,
     "position": "Small Forward",
@@ -1397,7 +1397,7 @@
   {
     "id": 156,
     "PName": "Talen Horton-Tucker",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629659.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629659.png",
     "team": "Chicago Bulls",
     "age": 24,
     "position": "Shooting Guard",
@@ -1406,7 +1406,7 @@
   {
     "id": 157,
     "PName": "Deni Avdija",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630166.png",
     "team": "Portland Trail Blazers",
     "age": 24,
     "position": "Small Forward",
@@ -1415,7 +1415,7 @@
   {
     "id": 158,
     "PName": "Santi Aldama",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630583.png",
     "team": "Memphis Grizzlies",
     "age": 24,
     "position": "Power Forward",
@@ -1424,7 +1424,7 @@
   {
     "id": 159,
     "PName": "Jusuf Nurkic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203994.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203994.png",
     "team": "Phoenix Suns",
     "age": 31,
     "position": "Center",
@@ -1433,7 +1433,7 @@
   {
     "id": 160,
     "PName": "Reggie Jackson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202704.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202704.png",
     "team": "Charlotte Hornets",
     "age": 35,
     "position": "Point Guard",
@@ -1442,7 +1442,7 @@
   {
     "id": 161,
     "PName": "Isaiah Joe",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630198.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630198.png",
     "team": "Oklahoma City Thunder",
     "age": 26,
     "position": "Shooting Guard",
@@ -1451,7 +1451,7 @@
   {
     "id": 162,
     "PName": "Ayo Dosunmu",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630245.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630245.png",
     "team": "Chicago Bulls",
     "age": 25,
     "position": "Point Guard",
@@ -1460,7 +1460,7 @@
   {
     "id": 163,
     "PName": "Collin Sexton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png",
     "team": "Utah Jazz",
     "age": 26,
     "position": "Point Guard",
@@ -1469,7 +1469,7 @@
   {
     "id": 164,
     "PName": "Caleb Martin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628997.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628997.png",
     "team": "Philadelphia 76ers",
     "age": 30,
     "position": "Small Forward",
@@ -1478,7 +1478,7 @@
   {
     "id": 165,
     "PName": "Walker Kessler",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631117.png",
     "team": "Utah Jazz",
     "age": 24,
     "position": "Center",
@@ -1487,7 +1487,7 @@
   {
     "id": 166,
     "PName": "Donte DiVincenzo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png",
     "team": "Minnesota Timberwolves",
     "age": 28,
     "position": "Shooting Guard",
@@ -1496,7 +1496,7 @@
   {
     "id": 167,
     "PName": "Malaki Branham",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631103.png",
     "team": "San Antonio Spurs",
     "age": 22,
     "position": "Shooting Guard",
@@ -1505,7 +1505,7 @@
   {
     "id": 168,
     "PName": "Royce O'Neale",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626220.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626220.png",
     "team": "Phoenix Suns",
     "age": 32,
     "position": "Small Forward",
@@ -1514,7 +1514,7 @@
   {
     "id": 169,
     "PName": "Cedi Osman",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626224.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png",
     "team": "San Antonio Spurs",
     "age": 30,
     "position": "Small Forward",
@@ -1523,7 +1523,7 @@
   {
     "id": 170,
     "PName": "Jonathan Kuminga",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630228.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630228.png",
     "team": "Golden State Warriors",
     "age": 23,
     "position": "Power Forward",
@@ -1532,7 +1532,7 @@
   {
     "id": 171,
     "PName": "Bones Hyland",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630538.png",
     "team": "Los Angeles Clippers",
     "age": 25,
     "position": "Point Guard",
@@ -1541,7 +1541,7 @@
   {
     "id": 172,
     "PName": "Doug McDermott",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203926.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203926.png",
     "team": "Sacramento Kings",
     "age": 33,
     "position": "Small Forward",
@@ -1550,7 +1550,7 @@
   {
     "id": 173,
     "PName": "Josh Richardson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626196.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png",
     "team": "Miami Heat",
     "age": 32,
     "position": "Shooting Guard",
@@ -1559,7 +1559,7 @@
   {
     "id": 174,
     "PName": "Lonnie Walker IV",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png",
     "team": "Houston Rockets",
     "age": 26,
     "position": "Shooting Guard",
@@ -1568,7 +1568,7 @@
   {
     "id": 175,
     "PName": "Alec Burks",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202692.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202692.png",
     "team": "Miami Heat",
     "age": 34,
     "position": "Shooting Guard",
@@ -1577,7 +1577,7 @@
   {
     "id": 176,
     "PName": "Jevon Carter",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png",
     "team": "Chicago Bulls",
     "age": 30,
     "position": "Point Guard",
@@ -1586,7 +1586,7 @@
   {
     "id": 177,
     "PName": "Cameron Johnson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629661.png",
     "team": "Brooklyn Nets",
     "age": 29,
     "position": "Small Forward",
@@ -1595,7 +1595,7 @@
   {
     "id": 178,
     "PName": "T.J. McConnell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/204456.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png",
     "team": "Indiana Pacers",
     "age": 33,
     "position": "Point Guard",
@@ -1604,7 +1604,7 @@
   {
     "id": 179,
     "PName": "Herbert Jones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630529.png",
     "team": "New Orleans Pelicans",
     "age": 27,
     "position": "Small Forward",
@@ -1613,7 +1613,7 @@
   {
     "id": 180,
     "PName": "Keita Bates-Diop",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628966.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png",
     "team": "Minnesota Timberwolves",
     "age": 29,
     "position": "Small Forward",
@@ -1622,7 +1622,7 @@
   {
     "id": 181,
     "PName": "Kyle Anderson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203937.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png",
     "team": "Golden State Warriors",
     "age": 32,
     "position": "Small Forward",
@@ -1631,7 +1631,7 @@
   {
     "id": 182,
     "PName": "Jalen Smith",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630188.png",
     "team": "Chicago Bulls",
     "age": 25,
     "position": "Power Forward",
@@ -1640,7 +1640,7 @@
   {
     "id": 183,
     "PName": "Gabe Vincent",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629216.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629216.png",
     "team": "Sacramento Kings",
     "age": 29,
     "position": "Point Guard",
@@ -1649,7 +1649,7 @@
   {
     "id": 184,
     "PName": "Grant Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629684.png",
     "team": "Charlotte Hornets",
     "age": 26,
     "position": "Power Forward",
@@ -1658,7 +1658,7 @@
   {
     "id": 185,
     "PName": "AJ Griffin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631100.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631100.png",
     "team": "Houston Rockets",
     "age": 22,
     "position": "Small Forward",
@@ -1667,7 +1667,7 @@
   {
     "id": 186,
     "PName": "Georges Niang",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627777.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627777.png",
     "team": "Cleveland Cavaliers",
     "age": 32,
     "position": "Power Forward",
@@ -1676,7 +1676,7 @@
   {
     "id": 187,
     "PName": "Shake Milton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629003.png",
     "team": "Brooklyn Nets",
     "age": 29,
     "position": "Shooting Guard",
@@ -1685,7 +1685,7 @@
   {
     "id": 188,
     "PName": "Monte Morris",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628420.png",
     "team": "Phoenix Suns",
     "age": 30,
     "position": "Point Guard",
@@ -1694,7 +1694,7 @@
   {
     "id": 189,
     "PName": "Bol Bol",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629626.png",
     "team": "Phoenix Suns",
     "age": 25,
     "position": "Center",
@@ -1703,7 +1703,7 @@
   {
     "id": 190,
     "PName": "Andrew Wiggins",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203952.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",
     "team": "Golden State Warriors",
     "age": 30,
     "position": "Small Forward",
@@ -1712,7 +1712,7 @@
   {
     "id": 191,
     "PName": "Jarred Vanderbilt",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629020.png",
     "team": "Los Angeles Lakers",
     "age": 26,
     "position": "Power Forward",
@@ -1721,7 +1721,7 @@
   {
     "id": 192,
     "PName": "Draymond Green",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png",
     "team": "Golden State Warriors",
     "age": 35,
     "position": "Power Forward",
@@ -1730,7 +1730,7 @@
   {
     "id": 193,
     "PName": "Al Horford",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png",
     "team": "Boston Celtics",
     "age": 39,
     "position": "Center",
@@ -1739,7 +1739,7 @@
   {
     "id": 194,
     "PName": "Kyle Lowry",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png",
     "team": "Philadelphia 76ers",
     "age": 39,
     "position": "Point Guard",
@@ -1748,7 +1748,7 @@
   {
     "id": 195,
     "PName": "Jeremy Sochan",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631110.png",
     "team": "San Antonio Spurs",
     "age": 22,
     "position": "Power Forward",
@@ -1757,7 +1757,7 @@
   {
     "id": 196,
     "PName": "Jalen Duren",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631105.png",
     "team": "Detroit Pistons",
     "age": 21,
     "position": "Center",
@@ -1766,7 +1766,7 @@
   {
     "id": 197,
     "PName": "Cam Thomas",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630560.png",
     "team": "Brooklyn Nets",
     "age": 24,
     "position": "Shooting Guard",
@@ -1775,7 +1775,7 @@
   {
     "id": 198,
     "PName": "Damion Lee",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627814.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png",
     "team": "Phoenix Suns",
     "age": 33,
     "position": "Shooting Guard",
@@ -1784,7 +1784,7 @@
   {
     "id": 199,
     "PName": "Karl-Anthony Towns",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png",
     "team": "New York Knicks",
     "age": 29,
     "position": "Center",
@@ -1793,7 +1793,7 @@
   {
     "id": 200,
     "PName": "Moritz Wagner",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png",
     "team": "Orlando Magic",
     "age": 28,
     "position": "Center",
@@ -1802,7 +1802,7 @@
   {
     "id": 201,
     "PName": "Torrey Craig",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628470.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628470.png",
     "team": "Chicago Bulls",
     "age": 34,
     "position": "Small Forward",
@@ -1811,7 +1811,7 @@
   {
     "id": 202,
     "PName": "Thomas Bryant",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png",
     "team": "Cleveland Cavaliers",
     "age": 28,
     "position": "Center",
@@ -1820,7 +1820,7 @@
   {
     "id": 203,
     "PName": "Kevon Looney",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626172.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
     "team": "Golden State Warriors",
     "age": 29,
     "position": "Center",
@@ -1829,7 +1829,7 @@
   {
     "id": 204,
     "PName": "Isaiah Stewart",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630191.png",
     "team": "Detroit Pistons",
     "age": 24,
     "position": "Center",
@@ -1838,7 +1838,7 @@
   {
     "id": 205,
     "PName": "Joe Harris",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203925.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203925.png",
     "team": "Detroit Pistons",
     "age": 34,
     "position": "Shooting Guard",
@@ -1847,7 +1847,7 @@
   {
     "id": 206,
     "PName": "Trey Lyles",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626168.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png",
     "team": "Sacramento Kings",
     "age": 29,
     "position": "Power Forward",
@@ -1856,7 +1856,7 @@
   {
     "id": 207,
     "PName": "Reggie Bullock",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203493.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203493.png",
     "team": "Houston Rockets",
     "age": 34,
     "position": "Small Forward",
@@ -1865,7 +1865,7 @@
   {
     "id": 208,
     "PName": "Seth Curry",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203552.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png",
     "team": "Charlotte Hornets",
     "age": 35,
     "position": "Shooting Guard",
@@ -1874,7 +1874,7 @@
   {
     "id": 209,
     "PName": "Brandon Clarke",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629634.png",
     "team": "Memphis Grizzlies",
     "age": 29,
     "position": "Power Forward",
@@ -1883,7 +1883,7 @@
   {
     "id": 210,
     "PName": "Dorian Finney-Smith",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627827.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png",
     "team": "Brooklyn Nets",
     "age": 32,
     "position": "Power Forward",
@@ -1892,7 +1892,7 @@
   {
     "id": 211,
     "PName": "Jose Alvarado",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630631.png",
     "team": "New Orleans Pelicans",
     "age": 27,
     "position": "Point Guard",
@@ -1901,7 +1901,7 @@
   {
     "id": 212,
     "PName": "Josh Green",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630182.png",
     "team": "Charlotte Hornets",
     "age": 24,
     "position": "Shooting Guard",
@@ -1910,7 +1910,7 @@
   {
     "id": 213,
     "PName": "Luke Kennard",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png",
     "team": "Memphis Grizzlies",
     "age": 29,
     "position": "Shooting Guard",
@@ -1919,7 +1919,7 @@
   {
     "id": 214,
     "PName": "Jordan Nwora",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629670.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629670.png",
     "team": "Toronto Raptors",
     "age": 27,
     "position": "Small Forward",
@@ -1928,7 +1928,7 @@
   {
     "id": 215,
     "PName": "Troy Brown Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628972.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png",
     "team": "Detroit Pistons",
     "age": 26,
     "position": "Small Forward",
@@ -1937,7 +1937,7 @@
   {
     "id": 216,
     "PName": "Devonte' Graham",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628984.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png",
     "team": "Portland Trail Blazers",
     "age": 30,
     "position": "Point Guard",
@@ -1946,7 +1946,7 @@
   {
     "id": 217,
     "PName": "Nick Richards",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630208.png",
     "team": "Charlotte Hornets",
     "age": 27,
     "position": "Center",
@@ -1955,7 +1955,7 @@
   {
     "id": 218,
     "PName": "Josh Okogie",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png",
     "team": "Phoenix Suns",
     "age": 27,
     "position": "Shooting Guard",
@@ -1964,7 +1964,7 @@
   {
     "id": 219,
     "PName": "Jalen Suggs",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630591.png",
     "team": "Orlando Magic",
     "age": 24,
     "position": "Shooting Guard",
@@ -1973,7 +1973,7 @@
   {
     "id": 220,
     "PName": "Hamidou Diallo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628977.png",
     "team": "Washington Wizards",
     "age": 27,
     "position": "Shooting Guard",
@@ -1982,7 +1982,7 @@
   {
     "id": 222,
     "PName": "Drew Eubanks",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629234.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629234.png",
     "team": "Sacramento Kings",
     "age": 28,
     "position": "Center",
@@ -1991,7 +1991,7 @@
   {
     "id": 223,
     "PName": "Tre Mann",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630544.png",
     "team": "Charlotte Hornets",
     "age": 24,
     "position": "Point Guard",
@@ -2000,7 +2000,7 @@
   {
     "id": 224,
     "PName": "Sam Hauser",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630573.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630573.png",
     "team": "Boston Celtics",
     "age": 27,
     "position": "Small Forward",
@@ -2009,7 +2009,7 @@
   {
     "id": 225,
     "PName": "Kevin Love",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
     "team": "Miami Heat",
     "age": 37,
     "position": "Power Forward",
@@ -2018,7 +2018,7 @@
   {
     "id": 226,
     "PName": "Precious Achiuwa",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630173.png",
     "team": "New York Knicks",
     "age": 26,
     "position": "Center",
@@ -2027,7 +2027,7 @@
   {
     "id": 227,
     "PName": "Dwight Powell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203939.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203939.png",
     "team": "Dallas Mavericks",
     "age": 34,
     "position": "Center",
@@ -2036,7 +2036,7 @@
   {
     "id": 228,
     "PName": "Marvin Bagley III",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
     "team": "Washington Wizards",
     "age": 26,
     "position": "Power Forward",
@@ -2045,7 +2045,7 @@
   {
     "id": 229,
     "PName": "Khris Middleton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203114.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png",
     "team": "Milwaukee Bucks",
     "age": 34,
     "position": "Small Forward",
@@ -2054,7 +2054,7 @@
   {
     "id": 230,
     "PName": "Obi Toppin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630167.png",
     "team": "Indiana Pacers",
     "age": 27,
     "position": "Power Forward",
@@ -2063,7 +2063,7 @@
   {
     "id": 232,
     "PName": "Cameron Payne",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626166.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626166.png",
     "team": "New York Knicks",
     "age": 31,
     "position": "Point Guard",
@@ -2072,7 +2072,7 @@
   {
     "id": 233,
     "PName": "Taurean Prince",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627752.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png",
     "team": "Milwaukee Bucks",
     "age": 31,
     "position": "Small Forward",
@@ -2081,7 +2081,7 @@
   {
     "id": 234,
     "PName": "Isaac Okoro",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630171.png",
     "team": "Cleveland Cavaliers",
     "age": 24,
     "position": "Small Forward",
@@ -2090,7 +2090,7 @@
   {
     "id": 235,
     "PName": "Aaron Wiggins",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630598.png",
     "team": "Oklahoma City Thunder",
     "age": 26,
     "position": "Shooting Guard",
@@ -2099,7 +2099,7 @@
   {
     "id": 236,
     "PName": "Nicolas Batum",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201587.png",
     "team": "Los Angeles Clippers",
     "age": 36,
     "position": "Power Forward",
@@ -2108,7 +2108,7 @@
   {
     "id": 238,
     "PName": "Ochai Agbaji",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630534.png",
     "team": "Toronto Raptors",
     "age": 25,
     "position": "Shooting Guard",
@@ -2117,7 +2117,7 @@
   {
     "id": 239,
     "PName": "David Roddy",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631223.png",
     "team": "Atlanta Hawks",
     "age": 24,
     "position": "Small Forward",
@@ -2126,7 +2126,7 @@
   {
     "id": 240,
     "PName": "Pat Connaughton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626192.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626192.png",
     "team": "Charlotte Hornets",
     "age": 32,
     "position": "Shooting Guard",
@@ -2135,7 +2135,7 @@
   {
     "id": 241,
     "PName": "Trendon Watford",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630570.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630570.png",
     "team": "Brooklyn Nets",
     "age": 24,
     "position": "Power Forward",
@@ -2144,7 +2144,7 @@
   {
     "id": 242,
     "PName": "Jock Landale",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629111.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629111.png",
     "team": "Houston Rockets",
     "age": 30,
     "position": "Center",
@@ -2153,7 +2153,7 @@
   {
     "id": 243,
     "PName": "Isaiah Jackson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630543.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630543.png",
     "team": "Indiana Pacers",
     "age": 23,
     "position": "Power Forward",
@@ -2162,7 +2162,7 @@
   {
     "id": 244,
     "PName": "Davion Mitchell",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630558.png",
     "team": "Toronto Raptors",
     "age": 27,
     "position": "Point Guard",
@@ -2171,7 +2171,7 @@
   {
     "id": 245,
     "PName": "James Wiseman",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630164.png",
     "team": "Indiana Pacers",
     "age": 24,
     "position": "Center",
@@ -2180,7 +2180,7 @@
   {
     "id": 247,
     "PName": "Larry Nance Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626204.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png",
     "team": "Atlanta Hawks",
     "age": 32,
     "position": "Power Forward",
@@ -2189,7 +2189,7 @@
   {
     "id": 248,
     "PName": "Jeff Green",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201145.png",
     "team": "Houston Rockets",
     "age": 39,
     "position": "Power Forward",
@@ -2198,7 +2198,7 @@
   {
     "id": 249,
     "PName": "Mitchell Robinson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png",
     "team": "Washington Wizards",
     "age": 27,
     "position": "Center",
@@ -2207,7 +2207,7 @@
   {
     "id": 251,
     "PName": "Xavier Tillman",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630214.png",
     "team": "Boston Celtics",
     "age": 26,
     "position": "Power Forward",
@@ -2216,7 +2216,7 @@
   {
     "id": 252,
     "PName": "Cory Joseph",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202709.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202709.png",
     "team": "Orlando Magic",
     "age": 34,
     "position": "Point Guard",
@@ -2225,7 +2225,7 @@
   {
     "id": 253,
     "PName": "Kenrich Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629026.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png",
     "team": "Oklahoma City Thunder",
     "age": 30,
     "position": "Power Forward",
@@ -2234,7 +2234,7 @@
   {
     "id": 254,
     "PName": "Jaden Hardy",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630702.png",
     "team": "Dallas Mavericks",
     "age": 23,
     "position": "Shooting Guard",
@@ -2243,7 +2243,7 @@
   {
     "id": 256,
     "PName": "Kevin Knox II",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png",
     "team": "Golden State Warriors",
     "age": 26,
     "position": "Small Forward",
@@ -2252,7 +2252,7 @@
   {
     "id": 257,
     "PName": "Patrick Beverley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201976.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201976.png",
     "team": "Milwaukee Bucks",
     "age": 37,
     "position": "Point Guard",
@@ -2261,7 +2261,7 @@
   {
     "id": 258,
     "PName": "Jordan Goodwin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630692.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630692.png",
     "team": "Memphis Grizzlies",
     "age": 27,
     "position": "Point Guard",
@@ -2270,7 +2270,7 @@
   {
     "id": 259,
     "PName": "Isaiah Hartenstein",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628392.png",
     "team": "Oklahoma City Thunder",
     "age": 27,
     "position": "Center",
@@ -2279,7 +2279,7 @@
   {
     "id": 260,
     "PName": "Andre Drummond",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203083.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png",
     "team": "Philadelphia 76ers",
     "age": 32,
     "position": "Center",
@@ -2288,7 +2288,7 @@
   {
     "id": 261,
     "PName": "Oshae Brissett",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629052.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629052.png",
     "team": "Boston Celtics",
     "age": 27,
     "position": "Power Forward",
@@ -2297,7 +2297,7 @@
   {
     "id": 262,
     "PName": "Gary Harris",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203914.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png",
     "team": "Orlando Magic",
     "age": 31,
     "position": "Shooting Guard",
@@ -2306,7 +2306,7 @@
   {
     "id": 263,
     "PName": "Jalen Johnson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630552.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630552.png",
     "team": "Atlanta Hawks",
     "age": 23,
     "position": "Power Forward",
@@ -2315,7 +2315,7 @@
   {
     "id": 264,
     "PName": "Cam Reddish",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629629.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629629.png",
     "team": "Los Angeles Lakers",
     "age": 26,
     "position": "Small Forward",
@@ -2324,7 +2324,7 @@
   {
     "id": 265,
     "PName": "Mark Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631109.png",
     "team": "Charlotte Hornets",
     "age": 23,
     "position": "Center",
@@ -2333,7 +2333,7 @@
   {
     "id": 267,
     "PName": "Mike Muscala",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203488.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png",
     "team": "Oklahoma City Thunder",
     "age": 34,
     "position": "Center",
@@ -2342,7 +2342,7 @@
   {
     "id": 270,
     "PName": "Alex Caruso",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png",
     "team": "Oklahoma City Thunder",
     "age": 31,
     "position": "Shooting Guard",
@@ -2351,7 +2351,7 @@
   {
     "id": 271,
     "PName": "Josh Christopher",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630528.png",
     "team": "Houston Rockets",
     "age": 23,
     "position": "Shooting Guard",
@@ -2360,7 +2360,7 @@
   {
     "id": 272,
     "PName": "Wenyen Gabriel",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629117.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629117.png",
     "team": "Memphis Grizzlies",
     "age": 28,
     "position": "Power Forward",
@@ -2369,7 +2369,7 @@
   {
     "id": 273,
     "PName": "Delon Wright",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626153.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626153.png",
     "team": "Milwaukee Bucks",
     "age": 33,
     "position": "Point Guard",
@@ -2378,7 +2378,7 @@
   {
     "id": 276,
     "PName": "John Konchar",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629723.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629723.png",
     "team": "Memphis Grizzlies",
     "age": 29,
     "position": "Shooting Guard",
@@ -2387,7 +2387,7 @@
   {
     "id": 277,
     "PName": "Nickeil Alexander-Walker",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629638.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png",
     "team": "Atlanta Hawks",
     "age": 27,
     "position": "Shooting Guard",
@@ -2396,7 +2396,7 @@
   {
     "id": 278,
     "PName": "Chris Duarte",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630537.png",
     "team": "Chicago Bulls",
     "age": 28,
     "position": "Shooting Guard",
@@ -2405,7 +2405,7 @@
   {
     "id": 279,
     "PName": "Dario Saric",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203967.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png",
     "team": "Denver Nuggets",
     "age": 31,
     "position": "Power Forward",
@@ -2414,7 +2414,7 @@
   {
     "id": 280,
     "PName": "Steven Adams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png",
     "team": "Houston Rockets",
     "age": 32,
     "position": "Center",
@@ -2423,7 +2423,7 @@
   {
     "id": 281,
     "PName": "Christian Braun",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631128.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631128.png",
     "team": "Denver Nuggets",
     "age": 24,
     "position": "Shooting Guard",
@@ -2432,7 +2432,7 @@
   {
     "id": 282,
     "PName": "Nassir Little",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629642.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629642.png",
     "team": "Phoenix Suns",
     "age": 25,
     "position": "Small Forward",
@@ -2441,7 +2441,7 @@
   {
     "id": 283,
     "PName": "Isaiah Livers",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630587.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630587.png",
     "team": "Washington Wizards",
     "age": 27,
     "position": "Small Forward",
@@ -2450,7 +2450,7 @@
   {
     "id": 284,
     "PName": "Landry Shamet",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png",
     "team": "Washington Wizards",
     "age": 28,
     "position": "Shooting Guard",
@@ -2459,7 +2459,7 @@
   {
     "id": 285,
     "PName": "Lamar Stevens",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630205.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630205.png",
     "team": "Memphis Grizzlies",
     "age": 28,
     "position": "Small Forward",
@@ -2468,7 +2468,7 @@
   {
     "id": 286,
     "PName": "Simone Fontecchio",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631323.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631323.png",
     "team": "Detroit Pistons",
     "age": 29,
     "position": "Small Forward",
@@ -2477,7 +2477,7 @@
   {
     "id": 287,
     "PName": "Mo Bamba",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628964.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628964.png",
     "team": "Los Angeles Clippers",
     "age": 27,
     "position": "Center",
@@ -2486,7 +2486,7 @@
   {
     "id": 288,
     "PName": "Yuta Watanabe",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629139.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629139.png",
     "team": "Memphis Grizzlies",
     "age": 31,
     "position": "Small Forward",
@@ -2495,7 +2495,7 @@
   {
     "id": 289,
     "PName": "Chimezie Metu",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629002.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629002.png",
     "team": "Detroit Pistons",
     "age": 28,
     "position": "Power Forward",
@@ -2504,7 +2504,7 @@
   {
     "id": 291,
     "PName": "Derrick Jones Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627884.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png",
     "team": "Los Angeles Clippers",
     "age": 28,
     "position": "Small Forward",
@@ -2513,7 +2513,7 @@
   {
     "id": 292,
     "PName": "Joe Ingles",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png",
     "team": "Minnesota Timberwolves",
     "age": 38,
     "position": "Small Forward",
@@ -2522,7 +2522,7 @@
   {
     "id": 293,
     "PName": "T.J. Warren",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203933.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203933.png",
     "team": "Minnesota Timberwolves",
     "age": 32,
     "position": "Small Forward",
@@ -2531,7 +2531,7 @@
   {
     "id": 294,
     "PName": "Ty Jerome",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629660.png",
     "team": "Cleveland Cavaliers",
     "age": 28,
     "position": "Point Guard",
@@ -2540,7 +2540,7 @@
   {
     "id": 295,
     "PName": "Moses Moody",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630541.png",
     "team": "Golden State Warriors",
     "age": 23,
     "position": "Shooting Guard",
@@ -2549,7 +2549,7 @@
   {
     "id": 296,
     "PName": "R.J. Hampton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630181.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630181.png",
     "team": "Miami Heat",
     "age": 24,
     "position": "Point Guard",
@@ -2558,7 +2558,7 @@
   {
     "id": 297,
     "PName": "Romeo Langford",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629641.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629641.png",
     "team": "Memphis Grizzlies",
     "age": 26,
     "position": "Shooting Guard",
@@ -2567,7 +2567,7 @@
   {
     "id": 298,
     "PName": "Vlatko Cancar",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628427.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628427.png",
     "team": "Denver Nuggets",
     "age": 28,
     "position": "Small Forward",
@@ -2576,7 +2576,7 @@
   {
     "id": 299,
     "PName": "Theo Maledon",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630177.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630177.png",
     "team": "Phoenix Suns",
     "age": 24,
     "position": "Point Guard",
@@ -2585,7 +2585,7 @@
   {
     "id": 300,
     "PName": "Matisse Thybulle",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629680.png",
     "team": "Portland Trail Blazers",
     "age": 28,
     "position": "Shooting Guard",
@@ -2594,7 +2594,7 @@
   {
     "id": 301,
     "PName": "Rudy Gay",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200752.png",
     "team": "Golden State Warriors",
     "age": 39,
     "position": "Power Forward",
@@ -2603,7 +2603,7 @@
   {
     "id": 302,
     "PName": "Jeremiah Robinson-Earl",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630526.png",
     "team": "New Orleans Pelicans",
     "age": 24,
     "position": "Power Forward",
@@ -2612,7 +2612,7 @@
   {
     "id": 303,
     "PName": "Ben Simmons",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png",
     "team": "Brooklyn Nets",
     "age": 29,
     "position": "Point Guard",
@@ -2621,7 +2621,7 @@
   {
     "id": 304,
     "PName": "Kris Dunn",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png",
     "team": "Utah Jazz",
     "age": 31,
     "position": "Point Guard",
@@ -2630,7 +2630,7 @@
   {
     "id": 305,
     "PName": "Jaylin Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631119.png",
     "team": "Denver Nuggets",
     "age": 23,
     "position": "Center",
@@ -2639,7 +2639,7 @@
   {
     "id": 306,
     "PName": "Robert Covington",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203496.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png",
     "team": "Philadelphia 76ers",
     "age": 34,
     "position": "Power Forward",
@@ -2648,7 +2648,7 @@
   {
     "id": 307,
     "PName": "Paul Reed",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630194.png",
     "team": "Detroit Pistons",
     "age": 26,
     "position": "Power Forward",
@@ -2657,7 +2657,7 @@
   {
     "id": 308,
     "PName": "Jae'Sean Tate",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630256.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630256.png",
     "team": "Houston Rockets",
     "age": 30,
     "position": "Small Forward",
@@ -2666,7 +2666,7 @@
   {
     "id": 309,
     "PName": "Robert Williams III",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629057.png",
     "team": "Portland Trail Blazers",
     "age": 28,
     "position": "Center",
@@ -2675,7 +2675,7 @@
   {
     "id": 310,
     "PName": "Eugene Omoruyi",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630647.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630647.png",
     "team": "Washington Wizards",
     "age": 28,
     "position": "Small Forward",
@@ -2684,7 +2684,7 @@
   {
     "id": 311,
     "PName": "Zeke Nnaji",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630192.png",
     "team": "Denver Nuggets",
     "age": 24,
     "position": "Power Forward",
@@ -2693,7 +2693,7 @@
   {
     "id": 312,
     "PName": "Aleksej Pokusevski",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630197.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630197.png",
     "team": "Charlotte Hornets",
     "age": 23,
     "position": "Power Forward",
@@ -2702,7 +2702,7 @@
   {
     "id": 313,
     "PName": "Payton Pritchard",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630202.png",
     "team": "Boston Celtics",
     "age": 27,
     "position": "Point Guard",
@@ -2711,7 +2711,7 @@
   {
     "id": 314,
     "PName": "Danuel House Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627863.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627863.png",
     "team": "Detroit Pistons",
     "age": 32,
     "position": "Small Forward",
@@ -2720,7 +2720,7 @@
   {
     "id": 315,
     "PName": "Duncan Robinson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629130.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png",
     "team": "Miami Heat",
     "age": 31,
     "position": "Shooting Guard",
@@ -2729,7 +2729,7 @@
   {
     "id": 316,
     "PName": "MarJon Beauchamp",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630699.png",
     "team": "Milwaukee Bucks",
     "age": 25,
     "position": "Small Forward",
@@ -2738,7 +2738,7 @@
   {
     "id": 317,
     "PName": "P.J. Tucker",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200782.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png",
     "team": "New York Knicks",
     "age": 40,
     "position": "Power Forward",
@@ -2747,7 +2747,7 @@
   {
     "id": 318,
     "PName": "Bismack Biyombo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202687.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png",
     "team": "San Antonio Spurs",
     "age": 33,
     "position": "Center",
@@ -2756,7 +2756,7 @@
   {
     "id": 319,
     "PName": "Sandro Mamukelashvili",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630572.png",
     "team": "San Antonio Spurs",
     "age": 26,
     "position": "Center",
@@ -2765,7 +2765,7 @@
   {
     "id": 320,
     "PName": "JT Thor",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630550.png",
     "team": "Cleveland Cavaliers",
     "age": 23,
     "position": "Power Forward",
@@ -2774,7 +2774,7 @@
   {
     "id": 322,
     "PName": "Luke Kornet",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628436.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628436.png",
     "team": "Boston Celtics",
     "age": 30,
     "position": "Center",
@@ -2783,7 +2783,7 @@
   {
     "id": 323,
     "PName": "Garrison Mathews",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629726.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629726.png",
     "team": "Atlanta Hawks",
     "age": 28,
     "position": "Shooting Guard",
@@ -2792,7 +2792,7 @@
   {
     "id": 325,
     "PName": "Ish Wainright",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630688.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630688.png",
     "team": "Phoenix Suns",
     "age": 31,
     "position": "Power Forward",
@@ -2801,7 +2801,7 @@
   {
     "id": 326,
     "PName": "Aaron Holiday",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628988.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png",
     "team": "Houston Rockets",
     "age": 29,
     "position": "Point Guard",
@@ -2810,7 +2810,7 @@
   {
     "id": 327,
     "PName": "Bryce McGowens",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631121.png",
     "team": "Portland Trail Blazers",
     "age": 22,
     "position": "Shooting Guard",
@@ -2819,7 +2819,7 @@
   {
     "id": 328,
     "PName": "Malachi Flynn",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630201.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630201.png",
     "team": "Detroit Pistons",
     "age": 27,
     "position": "Point Guard",
@@ -2828,7 +2828,7 @@
   {
     "id": 329,
     "PName": "Patty Mills",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201988.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201988.png",
     "team": "Utah Jazz",
     "age": 37,
     "position": "Point Guard",
@@ -2837,7 +2837,7 @@
   {
     "id": 331,
     "PName": "Thaddeus Young",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201152.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201152.png",
     "team": "Phoenix Suns",
     "age": 37,
     "position": "Power Forward",
@@ -2846,7 +2846,7 @@
   {
     "id": 332,
     "PName": "Cade Cunningham",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630595.png",
     "team": "Detroit Pistons",
     "age": 24,
     "position": "Point Guard",
@@ -2855,7 +2855,7 @@
   {
     "id": 333,
     "PName": "Haywood Highsmith",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629312.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629312.png",
     "team": "Miami Heat",
     "age": 28,
     "position": "Power Forward",
@@ -2864,7 +2864,7 @@
   {
     "id": 334,
     "PName": "Jaxson Hayes",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629637.png",
     "team": "Los Angeles Lakers",
     "age": 25,
     "position": "Center",
@@ -2873,7 +2873,7 @@
   {
     "id": 336,
     "PName": "Day'Ron Sharpe",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630549.png",
     "team": "Brooklyn Nets",
     "age": 23,
     "position": "Center",
@@ -2882,7 +2882,7 @@
   {
     "id": 337,
     "PName": "Dyson Daniels",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630700.png",
     "team": "Atlanta Hawks",
     "age": 22,
     "position": "Shooting Guard",
@@ -2891,7 +2891,7 @@
   {
     "id": 338,
     "PName": "Daishen Nix",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630227.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630227.png",
     "team": "Minnesota Timberwolves",
     "age": 23,
     "position": "Point Guard",
@@ -2900,7 +2900,7 @@
   {
     "id": 339,
     "PName": "Usman Garuba",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630586.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630586.png",
     "team": "Golden State Warriors",
     "age": 23,
     "position": "Power Forward",
@@ -2909,7 +2909,7 @@
   {
     "id": 340,
     "PName": "Darius Bazley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png",
     "team": "Utah Jazz",
     "age": 25,
     "position": "Power Forward",
@@ -2918,7 +2918,7 @@
   {
     "id": 341,
     "PName": "Miles McBride",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630540.png",
     "team": "New York Knicks",
     "age": 25,
     "position": "Point Guard",
@@ -2927,7 +2927,7 @@
   {
     "id": 342,
     "PName": "Svi Mykhailiuk",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png",
     "team": "Utah Jazz",
     "age": 28,
     "position": "Shooting Guard",
@@ -2936,7 +2936,7 @@
   {
     "id": 343,
     "PName": "Maxi Kleber",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628467.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png",
     "team": "Dallas Mavericks",
     "age": 33,
     "position": "Power Forward",
@@ -2945,7 +2945,7 @@
   {
     "id": 344,
     "PName": "Jabari Walker",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631133.png",
     "team": "Portland Trail Blazers",
     "age": 23,
     "position": "Power Forward",
@@ -2954,7 +2954,7 @@
   {
     "id": 345,
     "PName": "Lindy Waters III",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630322.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630322.png",
     "team": "Golden State Warriors",
     "age": 28,
     "position": "Shooting Guard",
@@ -2963,7 +2963,7 @@
   {
     "id": 346,
     "PName": "Ziaire Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630533.png",
     "team": "Brooklyn Nets",
     "age": 24,
     "position": "Small Forward",
@@ -2972,7 +2972,7 @@
   {
     "id": 347,
     "PName": "Davis Bertans",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202722.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png",
     "team": "Charlotte Hornets",
     "age": 32,
     "position": "Power Forward",
@@ -2981,7 +2981,7 @@
   {
     "id": 348,
     "PName": "Dean Wade",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629731.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629731.png",
     "team": "Portland Trail Blazers",
     "age": 28,
     "position": "Power Forward",
@@ -2990,7 +2990,7 @@
   {
     "id": 349,
     "PName": "Justin Holiday",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203200.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203200.png",
     "team": "Sacramento Kings",
     "age": 36,
     "position": "Shooting Guard",
@@ -2999,7 +2999,7 @@
   {
     "id": 350,
     "PName": "Charles Bassey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629646.png",
     "team": "San Antonio Spurs",
     "age": 25,
     "position": "Center",
@@ -3008,7 +3008,7 @@
   {
     "id": 351,
     "PName": "DeAndre Jordan",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201599.png",
     "team": "Denver Nuggets",
     "age": 37,
     "position": "Center",
@@ -3017,7 +3017,7 @@
   {
     "id": 353,
     "PName": "Justise Winslow",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626159.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
     "team": "Milwaukee Bucks",
     "age": 29,
     "position": "Small Forward",
@@ -3026,7 +3026,7 @@
   {
     "id": 354,
     "PName": "Anthony Gill",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630264.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630264.png",
     "team": "Washington Wizards",
     "age": 33,
     "position": "Power Forward",
@@ -3035,7 +3035,7 @@
   {
     "id": 355,
     "PName": "Caleb Houstan",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631216.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631216.png",
     "team": "Orlando Magic",
     "age": 22,
     "position": "Small Forward",
@@ -3044,7 +3044,7 @@
   {
     "id": 356,
     "PName": "Ousmane Dieng",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631172.png",
     "team": "Oklahoma City Thunder",
     "age": 22,
     "position": "Small Forward",
@@ -3053,7 +3053,7 @@
   {
     "id": 358,
     "PName": "Keon Johnson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630553.png",
     "team": "Brooklyn Nets",
     "age": 23,
     "position": "Shooting Guard",
@@ -3062,7 +3062,7 @@
   {
     "id": 359,
     "PName": "JaVale McGee",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png",
     "team": "Sacramento Kings",
     "age": 37,
     "position": "Center",
@@ -3071,7 +3071,7 @@
   {
     "id": 360,
     "PName": "Blake Wesley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631104.png",
     "team": "San Antonio Spurs",
     "age": 22,
     "position": "Point Guard",
@@ -3080,7 +3080,7 @@
   {
     "id": 361,
     "PName": "Rodney McGruder",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203585.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203585.png",
     "team": "Golden State Warriors",
     "age": 34,
     "position": "Shooting Guard",
@@ -3089,7 +3089,7 @@
   {
     "id": 362,
     "PName": "Christian Koloko",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631132.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631132.png",
     "team": "Los Angeles Lakers",
     "age": 25,
     "position": "Center",
@@ -3098,7 +3098,7 @@
   {
     "id": 363,
     "PName": "Luka Garza",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630568.png",
     "team": "Minnesota Timberwolves",
     "age": 26,
     "position": "Center",
@@ -3107,7 +3107,7 @@
   {
     "id": 364,
     "PName": "Wesley Matthews",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202083.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202083.png",
     "team": "Atlanta Hawks",
     "age": 39,
     "position": "Shooting Guard",
@@ -3116,7 +3116,7 @@
   {
     "id": 365,
     "PName": "Jericho Sims",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630579.png",
     "team": "New York Knicks",
     "age": 27,
     "position": "Center",
@@ -3125,7 +3125,7 @@
   {
     "id": 367,
     "PName": "Amir Coffey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629599.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629599.png",
     "team": "Los Angeles Clippers",
     "age": 28,
     "position": "Small Forward",
@@ -3134,7 +3134,7 @@
   {
     "id": 371,
     "PName": "Taj Gibson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201959.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201959.png",
     "team": "Charlotte Hornets",
     "age": 40,
     "position": "Center",
@@ -3143,7 +3143,7 @@
   {
     "id": 372,
     "PName": "Goga Bitadze",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629048.png",
     "team": "Orlando Magic",
     "age": 26,
     "position": "Center",
@@ -3152,7 +3152,7 @@
   {
     "id": 373,
     "PName": "Evan Fournier",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203095.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png",
     "team": "Detroit Pistons",
     "age": 32,
     "position": "Shooting Guard",
@@ -3161,7 +3161,7 @@
   {
     "id": 374,
     "PName": "Javonte Green",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629750.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629750.png",
     "team": "New Orleans Pelicans",
     "age": 32,
     "position": "Shooting Guard",
@@ -3170,7 +3170,7 @@
   {
     "id": 375,
     "PName": "Julian Champagnie",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630577.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630577.png",
     "team": "San Antonio Spurs",
     "age": 24,
     "position": "Small Forward",
@@ -3179,7 +3179,7 @@
   {
     "id": 376,
     "PName": "Johnny Davis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631098.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631098.png",
     "team": "Washington Wizards",
     "age": 23,
     "position": "Shooting Guard",
@@ -3188,7 +3188,7 @@
   {
     "id": 377,
     "PName": "Jordan McLaughlin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629162.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629162.png",
     "team": "Sacramento Kings",
     "age": 29,
     "position": "Point Guard",
@@ -3197,7 +3197,7 @@
   {
     "id": 378,
     "PName": "Kai Jones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630539.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630539.png",
     "team": "Los Angeles Clippers",
     "age": 24,
     "position": "Center",
@@ -3206,7 +3206,7 @@
   {
     "id": 380,
     "PName": "Admiral Schofield",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629678.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629678.png",
     "team": "Orlando Magic",
     "age": 28,
     "position": "Small Forward",
@@ -3215,7 +3215,7 @@
   {
     "id": 381,
     "PName": "Juan Toscano-Anderson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629308.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629308.png",
     "team": "Sacramento Kings",
     "age": 32,
     "position": "Small Forward",
@@ -3224,7 +3224,7 @@
   {
     "id": 382,
     "PName": "Moses Brown",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629650.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629650.png",
     "team": "New York Knicks",
     "age": 26,
     "position": "Center",
@@ -3233,7 +3233,7 @@
   {
     "id": 383,
     "PName": "AJ Green",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631260.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631260.png",
     "team": "Milwaukee Bucks",
     "age": 26,
     "position": "Shooting Guard",
@@ -3242,7 +3242,7 @@
   {
     "id": 384,
     "PName": "Bruno Fernando",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628981.png",
     "team": "Toronto Raptors",
     "age": 27,
     "position": "Center",
@@ -3251,7 +3251,7 @@
   {
     "id": 385,
     "PName": "Derrick Rose",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201565.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png",
     "team": "Memphis Grizzlies",
     "age": 37,
     "position": "Point Guard",
@@ -3260,7 +3260,7 @@
   {
     "id": 386,
     "PName": "Saben Lee",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630240.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630240.png",
     "team": "Phoenix Suns",
     "age": 26,
     "position": "Point Guard",
@@ -3269,7 +3269,7 @@
   {
     "id": 387,
     "PName": "TyTy Washington Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631102.png",
     "team": "Phoenix Suns",
     "age": 23,
     "position": "Point Guard",
@@ -3278,7 +3278,7 @@
   {
     "id": 388,
     "PName": "Brandon Boston Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630527.png",
     "team": "New Orleans Pelicans",
     "age": 23,
     "position": "Shooting Guard",
@@ -3287,7 +3287,7 @@
   {
     "id": 389,
     "PName": "Dalano Banton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630625.png",
     "team": "Portland Trail Blazers",
     "age": 25,
     "position": "Point Guard",
@@ -3296,7 +3296,7 @@
   {
     "id": 390,
     "PName": "Damian Jones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627745.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png",
     "team": "Cleveland Cavaliers",
     "age": 30,
     "position": "Center",
@@ -3305,7 +3305,7 @@
   {
     "id": 391,
     "PName": "Kevon Harris",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630284.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630284.png",
     "team": "Orlando Magic",
     "age": 28,
     "position": "Shooting Guard",
@@ -3314,7 +3314,7 @@
   {
     "id": 393,
     "PName": "Nathan Knight",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630233.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630233.png",
     "team": "Boston Celtics",
     "age": 28,
     "position": "Power Forward",
@@ -3323,7 +3323,7 @@
   {
     "id": 395,
     "PName": "Markieff Morris",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202693.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202693.png",
     "team": "Dallas Mavericks",
     "age": 36,
     "position": "Power Forward",
@@ -3332,7 +3332,7 @@
   {
     "id": 396,
     "PName": "Richaun Holmes",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626158.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png",
     "team": "Washington Wizards",
     "age": 32,
     "position": "Center",
@@ -3341,7 +3341,7 @@
   {
     "id": 397,
     "PName": "Chuma Okeke",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629643.png",
     "team": "New York Knicks",
     "age": 27,
     "position": "Power Forward",
@@ -3350,7 +3350,7 @@
   {
     "id": 398,
     "PName": "Max Christie",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631108.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631108.png",
     "team": "Los Angeles Lakers",
     "age": 22,
     "position": "Shooting Guard",
@@ -3359,7 +3359,7 @@
   {
     "id": 399,
     "PName": "Udoka Azubuike",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628962.png",
     "team": "Phoenix Suns",
     "age": 26,
     "position": "Center",
@@ -3368,7 +3368,7 @@
   {
     "id": 400,
     "PName": "Jae Crowder",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203109.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png",
     "team": "Sacramento Kings",
     "age": 35,
     "position": "Small Forward",
@@ -3377,7 +3377,7 @@
   {
     "id": 402,
     "PName": "Matt Ryan",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630346.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630346.png",
     "team": "New Orleans Pelicans",
     "age": 28,
     "position": "Small Forward",
@@ -3386,7 +3386,7 @@
   {
     "id": 403,
     "PName": "Patrick Baldwin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631116.png",
     "team": "Washington Wizards",
     "age": 22,
     "position": "Small Forward",
@@ -3395,7 +3395,7 @@
   {
     "id": 404,
     "PName": "Gorgui Dieng",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203476.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203476.png",
     "team": "San Antonio Spurs",
     "age": 35,
     "position": "Center",
@@ -3404,7 +3404,7 @@
   {
     "id": 405,
     "PName": "Kenneth Lofton Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631254.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631254.png",
     "team": "Utah Jazz",
     "age": 23,
     "position": "Power Forward",
@@ -3413,7 +3413,7 @@
   {
     "id": 406,
     "PName": "Orlando Robinson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631115.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631115.png",
     "team": "Sacramento Kings",
     "age": 25,
     "position": "Center",
@@ -3422,7 +3422,7 @@
   {
     "id": 407,
     "PName": "Kira Lewis Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630184.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630184.png",
     "team": "Utah Jazz",
     "age": 24,
     "position": "Point Guard",
@@ -3431,7 +3431,7 @@
   {
     "id": 408,
     "PName": "McKinley Wright IV",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630593.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630593.png",
     "team": "Dallas Mavericks",
     "age": 27,
     "position": "Point Guard",
@@ -3440,7 +3440,7 @@
   {
     "id": 409,
     "PName": "Robin Lopez",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201577.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201577.png",
     "team": "Sacramento Kings",
     "age": 37,
     "position": "Center",
@@ -3449,7 +3449,7 @@
   {
     "id": 410,
     "PName": "Dominick Barlow",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631230.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631230.png",
     "team": "Atlanta Hawks",
     "age": 22,
     "position": "Power Forward",
@@ -3458,7 +3458,7 @@
   {
     "id": 411,
     "PName": "Ish Smith",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202397.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png",
     "team": "Charlotte Hornets",
     "age": 37,
     "position": "Point Guard",
@@ -3467,7 +3467,7 @@
   {
     "id": 412,
     "PName": "Jake LaRavia",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631222.png",
     "team": "Memphis Grizzlies",
     "age": 23,
     "position": "Small Forward",
@@ -3476,7 +3476,7 @@
   {
     "id": 414,
     "PName": "Gary Payton II",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627780.png",
     "team": "Golden State Warriors",
     "age": 32,
     "position": "Point Guard",
@@ -3485,7 +3485,7 @@
   {
     "id": 415,
     "PName": "Kessler Edwards",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630556.png",
     "team": "Dallas Mavericks",
     "age": 25,
     "position": "Small Forward",
@@ -3494,7 +3494,7 @@
   {
     "id": 416,
     "PName": "Cody Zeller",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203469.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png",
     "team": "Atlanta Hawks",
     "age": 33,
     "position": "Center",
@@ -3503,7 +3503,7 @@
   {
     "id": 417,
     "PName": "Jamal Cain",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631288.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631288.png",
     "team": "New Orleans Pelicans",
     "age": 26,
     "position": "Small Forward",
@@ -3512,7 +3512,7 @@
   {
     "id": 418,
     "PName": "Theo Pinson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629033.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629033.png",
     "team": "Dallas Mavericks",
     "age": 29,
     "position": "Shooting Guard",
@@ -3521,7 +3521,7 @@
   {
     "id": 419,
     "PName": "Skylar Mays",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630219.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630219.png",
     "team": "Minnesota Timberwolves",
     "age": 28,
     "position": "Point Guard",
@@ -3530,7 +3530,7 @@
   {
     "id": 421,
     "PName": "Davon Reed",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628432.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628432.png",
     "team": "Memphis Grizzlies",
     "age": 30,
     "position": "Shooting Guard",
@@ -3539,7 +3539,7 @@
   {
     "id": 422,
     "PName": "Frank Kaminsky",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626163.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626163.png",
     "team": "Phoenix Suns",
     "age": 32,
     "position": "Center",
@@ -3548,7 +3548,7 @@
   {
     "id": 424,
     "PName": "Johnny Juzang",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630548.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630548.png",
     "team": "Utah Jazz",
     "age": 24,
     "position": "Shooting Guard",
@@ -3557,7 +3557,7 @@
   {
     "id": 425,
     "PName": "Dalen Terry",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631207.png",
     "team": "Chicago Bulls",
     "age": 23,
     "position": "Small Forward",
@@ -3566,7 +3566,7 @@
   {
     "id": 426,
     "PName": "David Duke Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630561.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630561.png",
     "team": "San Antonio Spurs",
     "age": 26,
     "position": "Shooting Guard",
@@ -3575,7 +3575,7 @@
   {
     "id": 427,
     "PName": "Nikola Jovic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631107.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631107.png",
     "team": "Miami Heat",
     "age": 22,
     "position": "Power Forward",
@@ -3584,7 +3584,7 @@
   {
     "id": 428,
     "PName": "Kennedy Chandler",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631113.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631113.png",
     "team": "Brooklyn Nets",
     "age": 23,
     "position": "Point Guard",
@@ -3593,7 +3593,7 @@
   {
     "id": 429,
     "PName": "Peyton Watson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631212.png",
     "team": "Denver Nuggets",
     "age": 23,
     "position": "Small Forward",
@@ -3602,7 +3602,7 @@
   {
     "id": 431,
     "PName": "Luka Samanic",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629677.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629677.png",
     "team": "Utah Jazz",
     "age": 25,
     "position": "Power Forward",
@@ -3611,7 +3611,7 @@
   {
     "id": 434,
     "PName": "Jeff Dowtin Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630288.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630288.png",
     "team": "Philadelphia 76ers",
     "age": 28,
     "position": "Point Guard",
@@ -3620,7 +3620,7 @@
   {
     "id": 435,
     "PName": "Moussa Diabate",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631217.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631217.png",
     "team": "Charlotte Hornets",
     "age": 23,
     "position": "Power Forward",
@@ -3629,7 +3629,7 @@
   {
     "id": 436,
     "PName": "Mamadi Diakite",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629603.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629603.png",
     "team": "New York Knicks",
     "age": 28,
     "position": "Power Forward",
@@ -3638,7 +3638,7 @@
   {
     "id": 437,
     "PName": "A.J. Lawson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630639.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630639.png",
     "team": "Dallas Mavericks",
     "age": 25,
     "position": "Shooting Guard",
@@ -3647,7 +3647,7 @@
   {
     "id": 438,
     "PName": "Quenton Jackson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631245.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631245.png",
     "team": "Indiana Pacers",
     "age": 27,
     "position": "Shooting Guard",
@@ -3656,7 +3656,7 @@
   {
     "id": 439,
     "PName": "Jonathan Isaac",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png",
     "team": "Orlando Magic",
     "age": 28,
     "position": "Power Forward",
@@ -3665,7 +3665,7 @@
   {
     "id": 440,
     "PName": "Jeenathan Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631466.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631466.png",
     "team": "Houston Rockets",
     "age": 26,
     "position": "Shooting Guard",
@@ -3674,7 +3674,7 @@
   {
     "id": 441,
     "PName": "Trent Forrest",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630235.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630235.png",
     "team": "Atlanta Hawks",
     "age": 27,
     "position": "Point Guard",
@@ -3683,7 +3683,7 @@
   {
     "id": 442,
     "PName": "James Johnson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201949.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201949.png",
     "team": "Indiana Pacers",
     "age": 38,
     "position": "Power Forward",
@@ -3692,7 +3692,7 @@
   {
     "id": 443,
     "PName": "Jay Huff",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630643.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630643.png",
     "team": "Memphis Grizzlies",
     "age": 27,
     "position": "Center",
@@ -3701,7 +3701,7 @@
   {
     "id": 444,
     "PName": "Thanasis Antetokounmpo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203648.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203648.png",
     "team": "Milwaukee Bucks",
     "age": 33,
     "position": "Small Forward",
@@ -3710,7 +3710,7 @@
   {
     "id": 445,
     "PName": "Garrett Temple",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202066.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png",
     "team": "Toronto Raptors",
     "age": 39,
     "position": "Shooting Guard",
@@ -3719,7 +3719,7 @@
   {
     "id": 446,
     "PName": "Lindell Wigginton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629623.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629623.png",
     "team": "Milwaukee Bucks",
     "age": 27,
     "position": "Point Guard",
@@ -3728,7 +3728,7 @@
   {
     "id": 447,
     "PName": "Daniel Theis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628464.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628464.png",
     "team": "New Orleans Pelicans",
     "age": 33,
     "position": "Center",
@@ -3737,7 +3737,7 @@
   {
     "id": 449,
     "PName": "Josh Minott",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631169.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631169.png",
     "team": "Minnesota Timberwolves",
     "age": 22,
     "position": "Small Forward",
@@ -3746,7 +3746,7 @@
   {
     "id": 451,
     "PName": "Jared Rhoden",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631197.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631197.png",
     "team": "Detroit Pistons",
     "age": 26,
     "position": "Shooting Guard",
@@ -3755,7 +3755,7 @@
   {
     "id": 452,
     "PName": "John Butler Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631219.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631219.png",
     "team": "Washington Wizards",
     "age": 22,
     "position": "Center",
@@ -3764,7 +3764,7 @@
   {
     "id": 453,
     "PName": "Dru Smith",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630696.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630696.png",
     "team": "Miami Heat",
     "age": 27,
     "position": "Point Guard",
@@ -3773,7 +3773,7 @@
   {
     "id": 454,
     "PName": "Jarrett Culver",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629633.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629633.png",
     "team": "Atlanta Hawks",
     "age": 26,
     "position": "Shooting Guard",
@@ -3782,7 +3782,7 @@
   {
     "id": 455,
     "PName": "Otto Porter Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203490.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png",
     "team": "Utah Jazz",
     "age": 32,
     "position": "Small Forward",
@@ -3791,7 +3791,7 @@
   {
     "id": 456,
     "PName": "Shaquille Harrison",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627885.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627885.png",
     "team": "Los Angeles Lakers",
     "age": 32,
     "position": "Point Guard",
@@ -3800,7 +3800,7 @@
   {
     "id": 457,
     "PName": "Alex Len",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203458.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203458.png",
     "team": "Sacramento Kings",
     "age": 32,
     "position": "Center",
@@ -3809,7 +3809,7 @@
   {
     "id": 460,
     "PName": "Jaden Springer",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630531.png",
     "team": "Boston Celtics",
     "age": 23,
     "position": "Shooting Guard",
@@ -3818,7 +3818,7 @@
   {
     "id": 461,
     "PName": "Wendell Moore Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631111.png",
     "team": "Detroit Pistons",
     "age": 24,
     "position": "Small Forward",
@@ -3827,7 +3827,7 @@
   {
     "id": 462,
     "PName": "Jason Preston",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630554.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630554.png",
     "team": "Utah Jazz",
     "age": 26,
     "position": "Point Guard",
@@ -3836,7 +3836,7 @@
   {
     "id": 463,
     "PName": "Omer Yurtseven",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630209.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630209.png",
     "team": "Utah Jazz",
     "age": 27,
     "position": "Center",
@@ -3845,7 +3845,7 @@
   {
     "id": 465,
     "PName": "Jared Butler",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630215.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630215.png",
     "team": "Phoenix Suns",
     "age": 25,
     "position": "Point Guard",
@@ -3854,7 +3854,7 @@
   {
     "id": 466,
     "PName": "Olivier Sarr",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630846.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630846.png",
     "team": "Oklahoma City Thunder",
     "age": 26,
     "position": "Center",
@@ -3863,7 +3863,7 @@
   {
     "id": 467,
     "PName": "Vit Krejci",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630249.png",
     "team": "Atlanta Hawks",
     "age": 25,
     "position": "Shooting Guard",
@@ -3872,7 +3872,7 @@
   {
     "id": 468,
     "PName": "Cody Martin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628998.png",
     "team": "Charlotte Hornets",
     "age": 30,
     "position": "Small Forward",
@@ -3881,7 +3881,7 @@
   {
     "id": 470,
     "PName": "Isaiah Mobley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630600.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630600.png",
     "team": "Sacramento Kings",
     "age": 26,
     "position": "Power Forward",
@@ -3890,7 +3890,7 @@
   {
     "id": 471,
     "PName": "Vince Williams Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631246.png",
     "team": "Memphis Grizzlies",
     "age": 25,
     "position": "Shooting Guard",
@@ -3899,7 +3899,7 @@
   {
     "id": 472,
     "PName": "Greg Brown III",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630535.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630535.png",
     "team": "Dallas Mavericks",
     "age": 24,
     "position": "Power Forward",
@@ -3908,7 +3908,7 @@
   {
     "id": 474,
     "PName": "Joshua Primo",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630563.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630563.png",
     "team": "Los Angeles Clippers",
     "age": 22,
     "position": "Shooting Guard",
@@ -3917,7 +3917,7 @@
   {
     "id": 476,
     "PName": "Ryan Arcidiacono",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627853.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627853.png",
     "team": "New York Knicks",
     "age": 31,
     "position": "Point Guard",
@@ -3926,7 +3926,7 @@
   {
     "id": 477,
     "PName": "Mac McClung",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630644.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630644.png",
     "team": "Orlando Magic",
     "age": 26,
     "position": "Point Guard",
@@ -3935,7 +3935,7 @@
   {
     "id": 479,
     "PName": "Sam Merrill",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630241.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630241.png",
     "team": "Indiana Pacers",
     "age": 29,
     "position": "Shooting Guard",
@@ -3944,7 +3944,7 @@
   {
     "id": 481,
     "PName": "Keon Ellis",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631165.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631165.png",
     "team": "Sacramento Kings",
     "age": 25,
     "position": "Shooting Guard",
@@ -3953,7 +3953,7 @@
   {
     "id": 482,
     "PName": "Micah Potter",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630695.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630695.png",
     "team": "Utah Jazz",
     "age": 27,
     "position": "Center",
@@ -3962,7 +3962,7 @@
   {
     "id": 483,
     "PName": "Ryan Rollins",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631157.png",
     "team": "Milwaukee Bucks",
     "age": 23,
     "position": "Shooting Guard",
@@ -3971,7 +3971,7 @@
   {
     "id": 484,
     "PName": "Jarrell Brantley",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629714.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629714.png",
     "team": "New Orleans Pelicans",
     "age": 29,
     "position": "Power Forward",
@@ -3980,7 +3980,7 @@
   {
     "id": 485,
     "PName": "PJ Dozier",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628408.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628408.png",
     "team": "Minnesota Timberwolves",
     "age": 29,
     "position": "Shooting Guard",
@@ -3989,7 +3989,7 @@
   {
     "id": 486,
     "PName": "Jack White",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631298.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631298.png",
     "team": "Memphis Grizzlies",
     "age": 28,
     "position": "Power Forward",
@@ -3998,7 +3998,7 @@
   {
     "id": 487,
     "PName": "Trevelin Queen",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630243.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630243.png",
     "team": "Orlando Magic",
     "age": 28,
     "position": "Shooting Guard",
@@ -4007,7 +4007,7 @@
   {
     "id": 488,
     "PName": "Tyrese Martin",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631213.png",
     "team": "Atlanta Hawks",
     "age": 26,
     "position": "Shooting Guard",
@@ -4016,7 +4016,7 @@
   {
     "id": 489,
     "PName": "Carlik Jones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630637.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630637.png",
     "team": "Chicago Bulls",
     "age": 27,
     "position": "Point Guard",
@@ -4025,7 +4025,7 @@
   {
     "id": 490,
     "PName": "Justin Jackson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628382.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628382.png",
     "team": "Minnesota Timberwolves",
     "age": 30,
     "position": "Small Forward",
@@ -4034,7 +4034,7 @@
   {
     "id": 492,
     "PName": "Ron Harper Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631199.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631199.png",
     "team": "Boston Celtics",
     "age": 25,
     "position": "Small Forward",
@@ -4043,7 +4043,7 @@
   {
     "id": 493,
     "PName": "JD Davison",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631120.png",
     "team": "Boston Celtics",
     "age": 23,
     "position": "Point Guard",
@@ -4052,7 +4052,7 @@
   {
     "id": 496,
     "PName": "Justin Minaya",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631303.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631303.png",
     "team": "Portland Trail Blazers",
     "age": 26,
     "position": "Small Forward",
@@ -4061,7 +4061,7 @@
   {
     "id": 499,
     "PName": "Buddy Boeheim",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631205.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631205.png",
     "team": "Detroit Pistons",
     "age": 26,
     "position": "Shooting Guard",
@@ -4070,7 +4070,7 @@
   {
     "id": 500,
     "PName": "RaiQuan Gray",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630564.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630564.png",
     "team": "San Antonio Spurs",
     "age": 26,
     "position": "Power Forward",
@@ -4079,7 +4079,7 @@
   {
     "id": 501,
     "PName": "Darius Days",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630620.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630620.png",
     "team": "Houston Rockets",
     "age": 26,
     "position": "Power Forward",
@@ -4088,7 +4088,7 @@
   {
     "id": 502,
     "PName": "Jamaree Bouyea",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631123.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631123.png",
     "team": "San Antonio Spurs",
     "age": 26,
     "position": "Point Guard",
@@ -4097,7 +4097,7 @@
   {
     "id": 503,
     "PName": "Scotty Pippen Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630590.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630590.png",
     "team": "Memphis Grizzlies",
     "age": 24,
     "position": "Point Guard",
@@ -4106,7 +4106,7 @@
   {
     "id": 504,
     "PName": "Jay Scrubb",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630206.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630206.png",
     "team": "Boston Celtics",
     "age": 25,
     "position": "Shooting Guard",
@@ -4115,7 +4115,7 @@
   {
     "id": 505,
     "PName": "Neemias Queta",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629674.png",
     "team": "Boston Celtics",
     "age": 26,
     "position": "Center",
@@ -4124,7 +4124,7 @@
   {
     "id": 506,
     "PName": "Justin Champagnie",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630551.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630551.png",
     "team": "Washington Wizards",
     "age": 24,
     "position": "Small Forward",
@@ -4133,7 +4133,7 @@
   {
     "id": 508,
     "PName": "Lester Quinones",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631311.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631311.png",
     "team": "Philadelphia 76ers",
     "age": 24,
     "position": "Shooting Guard",
@@ -4142,7 +4142,7 @@
   {
     "id": 509,
     "PName": "Cole Swider",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631306.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631306.png",
     "team": "Detroit Pistons",
     "age": 26,
     "position": "Small Forward",
@@ -4151,7 +4151,7 @@
   {
     "id": 512,
     "PName": "Kendall Brown",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631112.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631112.png",
     "team": "Los Angeles Clippers",
     "age": 22,
     "position": "Small Forward",
@@ -4160,7 +4160,7 @@
   {
     "id": 513,
     "PName": "Trevor Hudgins",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631309.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631309.png",
     "team": "Houston Rockets",
     "age": 26,
     "position": "Point Guard",
@@ -4169,7 +4169,7 @@
   {
     "id": 517,
     "PName": "Xavier Moon",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629875.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629875.png",
     "team": "Los Angeles Clippers",
     "age": 30,
     "position": "Point Guard",
@@ -4178,7 +4178,7 @@
   {
     "id": 520,
     "PName": "Mfiondu Kabengele",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629662.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629662.png",
     "team": "Boston Celtics",
     "age": 28,
     "position": "Center",
@@ -4187,7 +4187,7 @@
   {
     "id": 522,
     "PName": "Dylan Windler",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629685.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629685.png",
     "team": "Atlanta Hawks",
     "age": 29,
     "position": "Shooting Guard",
@@ -4196,7 +4196,7 @@
   {
     "id": 523,
     "PName": "Kobi Simmons",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628424.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628424.png",
     "team": "Charlotte Hornets",
     "age": 28,
     "position": "Point Guard",
@@ -4205,7 +4205,7 @@
   {
     "id": 524,
     "PName": "Malcolm Hill",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630792.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630792.png",
     "team": "New Orleans Pelicans",
     "age": 30,
     "position": "Small Forward",
@@ -4214,7 +4214,7 @@
   {
     "id": 525,
     "PName": "Braxton Key",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630296.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630296.png",
     "team": "Denver Nuggets",
     "age": 28,
     "position": "Small Forward",
@@ -4223,7 +4223,7 @@
   {
     "id": 526,
     "PName": "Dereon Seabron",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631220.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631220.png",
     "team": "New Orleans Pelicans",
     "age": 25,
     "position": "Shooting Guard",
@@ -4232,7 +4232,7 @@
   {
     "id": 527,
     "PName": "Donovan Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631495.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631495.png",
     "team": "Atlanta Hawks",
     "age": 24,
     "position": "Shooting Guard",
@@ -4241,7 +4241,7 @@
   {
     "id": 529,
     "PName": "Jacob Gilyard",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631367.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631367.png",
     "team": "Brooklyn Nets",
     "age": 27,
     "position": "Point Guard",
@@ -4250,7 +4250,7 @@
   {
     "id": 530,
     "PName": "Jordan Schakel",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630648.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630648.png",
     "team": "Boston Celtics",
     "age": 27,
     "position": "Shooting Guard",
@@ -4259,7 +4259,7 @@
   {
     "id": 531,
     "PName": "Trevor Keels",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631211.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631211.png",
     "team": "New York Knicks",
     "age": 22,
     "position": "Shooting Guard",
@@ -4268,7 +4268,7 @@
   {
     "id": 532,
     "PName": "Chima Moneke",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631320.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631320.png",
     "team": "Sacramento Kings",
     "age": 29,
     "position": "Power Forward",
@@ -4277,7 +4277,7 @@
   {
     "id": 533,
     "PName": "Chris Silva",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629735.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629735.png",
     "team": "Atlanta Hawks",
     "age": 29,
     "position": "Power Forward",
@@ -4286,7 +4286,7 @@
   {
     "id": 534,
     "PName": "Stanley Umude",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630649.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630649.png",
     "team": "Detroit Pistons",
     "age": 26,
     "position": "Shooting Guard",
@@ -4295,7 +4295,7 @@
   {
     "id": 535,
     "PName": "Alondes Williams",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631214.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631214.png",
     "team": "Miami Heat",
     "age": 26,
     "position": "Shooting Guard",
@@ -4304,7 +4304,7 @@
   {
     "id": 536,
     "PName": "Deonte Burton",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629126.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629126.png",
     "team": "Sacramento Kings",
     "age": 31,
     "position": "Shooting Guard",
@@ -4313,7 +4313,7 @@
   {
     "id": 538,
     "PName": "Michael Foster Jr.",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630701.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630701.png",
     "team": "Washington Wizards",
     "age": 22,
     "position": "Power Forward",
@@ -4322,7 +4322,7 @@
   {
     "id": 539,
     "PName": "Victor Wembanyama",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641705.png",
     "team": "San Antonio Spurs",
     "age": 21,
     "position": "Center",
@@ -4331,7 +4331,7 @@
   {
     "id": 540,
     "PName": "Chet Holmgren",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631096.png",
     "team": "Oklahoma City Thunder",
     "age": 23,
     "position": "Center",
@@ -4340,7 +4340,7 @@
   {
     "id": 541,
     "PName": "Scoot Henderson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630703.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630703.png",
     "team": "Portland Trail Blazers",
     "age": 21,
     "position": "Point Guard",
@@ -4349,7 +4349,7 @@
   {
     "id": 542,
     "PName": "Brandon Miller",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641706.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641706.png",
     "team": "Charlotte Hornets",
     "age": 22,
     "position": "Small Forward",
@@ -4358,7 +4358,7 @@
   {
     "id": 543,
     "PName": "Amen Thompson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641708.png",
     "team": "Houston Rockets",
     "age": 22,
     "position": "Shooting Guard",
@@ -4367,7 +4367,7 @@
   {
     "id": 544,
     "PName": "Ausar Thompson",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641709.png",
     "team": "Detroit Pistons",
     "age": 22,
     "position": "Small Forward",
@@ -4376,7 +4376,7 @@
   {
     "id": 545,
     "PName": "Cooper Flagg",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642843.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642843.png",
     "team": "Dallas Mavericks",
     "age": 18,
     "position": "Small Forward",
@@ -4385,7 +4385,7 @@
   {
     "id": 546,
     "PName": "Stephon Castle",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642264.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642264.png",
     "team": "San Antonio Spurs",
     "age": 20,
     "position": "Point Guard",
@@ -4394,7 +4394,7 @@
   {
     "id": 547,
     "PName": "Ryan Dunn",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642346.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642346.png",
     "team": "Phoenix Suns",
     "age": 22,
     "position": "Small Forward",
@@ -4403,7 +4403,7 @@
   {
     "id": 548,
     "PName": "Zach Edey",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641744.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641744.png",
     "team": "Memphis Grizzlies",
     "age": 23,
     "position": "Center",
@@ -4412,7 +4412,7 @@
   {
     "id": 549,
     "PName": "Keyonte George",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641718.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641718.png",
     "team": "Utah Jazz",
     "age": 21,
     "position": "Point Guard",
@@ -4421,7 +4421,7 @@
   {
     "id": 550,
     "PName": "Dalton Knecht",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642261.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642261.png",
     "team": "Los Angeles Lakers",
     "age": 24,
     "position": "Small Forward",
@@ -4430,7 +4430,7 @@
   {
     "id": 551,
     "PName": "Jaylen Wells",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642377.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642377.png",
     "team": "Memphis Grizzlies",
     "age": 22,
     "position": "Small Forward",
@@ -4439,7 +4439,7 @@
   {
     "id": 552,
     "PName": "Dereck Lively II",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641726.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641726.png",
     "team": "Dallas Mavericks",
     "age": 21,
     "position": "Center",
@@ -4448,7 +4448,7 @@
   {
     "id": 553,
     "PName": "Emoni Bates",
-    "img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641734.png",
+    "img_url": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641734.png",
     "team": "Philadelphia 76ers",
     "age": 21,
     "position": "Small Forward",
